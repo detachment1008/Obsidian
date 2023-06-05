@@ -3,5 +3,6 @@
   "foldHeading": true,
   "showInlineTitle": false,
   "showLineNumber": false,
-  "attachmentFolderPath": "未命名"
+  "attachmentFolderPath": "未命名",
+  "readableLineLength": false
 }

@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "75be6ced2bf90290",
+        "id": "d458e0ab0f30e733",
         "type": "tabs",
+        "dimension": 29.356172474896635,
         "children": [
           {
-            "id": "6115ec7e800560ae",
+            "id": "89dc9d5b8b56f8f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "27b80d854c69a03c",
+        "type": "tabs",
+        "dimension": 70.64382752510336,
+        "children": [
+          {
+            "id": "cd31389353be4715",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机图形学基础/坐标系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机图形学基础/坐标系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机图形学基础/坐标系统.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6115ec7e800560ae",
+  "active": "89dc9d5b8b56f8f0",
   "lastOpenFiles": [
     "CPU程序/OpenGL程序流程.md",
     "计算机图形学基础/坐标系统.md",
+    "未命名.md",
     "附件",
     "计算机图形学基础",
     "未命名.canvas",
