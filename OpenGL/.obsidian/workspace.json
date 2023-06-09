@@ -4,38 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d458e0ab0f30e733",
+        "id": "3aa7c633cd4acdb6",
         "type": "tabs",
-        "dimension": 29.356172474896635,
         "children": [
           {
-            "id": "89dc9d5b8b56f8f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "27b80d854c69a03c",
-        "type": "tabs",
-        "dimension": 70.64382752510336,
-        "children": [
-          {
-            "id": "cd31389353be4715",
+            "id": "d5e496472ae71b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学基础/坐标系统.md",
+                "file": "入门/1.OpenGL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f12e7e03868adf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "入门/3.你好，窗口.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e42b0ff4d7de4fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "入门/4.你好，三角形.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "f61ec004750c193e",
@@ -101,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "入门/4.你好，三角形.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "入门/4.你好，三角形.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "入门/4.你好，三角形.md"
+              }
             }
           }
         ],
@@ -158,11 +171,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89dc9d5b8b56f8f0",
+  "active": "e42b0ff4d7de4fef",
   "lastOpenFiles": [
+    "入门/3.你好，窗口.md",
+    "入门/4.你好，三角形.md",
+    "入门/2.创建窗口.md",
+    "入门/1.OpenGL.md",
+    "未命名 1.md",
+    "入门",
     "CPU程序/OpenGL程序流程.md",
+    "库/glm/基本.md",
+    "GPU程序/mat矩阵.md",
     "计算机图形学基础/坐标系统.md",
-    "未命名.md",
+    "[.md",
+    "库/glm.md",
+    "库/glm",
+    "库",
     "附件",
     "计算机图形学基础",
     "未命名.canvas",
