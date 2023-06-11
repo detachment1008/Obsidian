@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "入门/6.纹理.md",
+                "file": "入门/7.变换.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入门/6.纹理.md",
+                "file": "入门/7.变换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "入门/6.纹理.md",
+                "file": "入门/7.变换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "入门/6.纹理.md"
+                "file": "入门/7.变换.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "e42b0ff4d7de4fef",
   "lastOpenFiles": [
-    "入门/1.OpenGL.md",
     "入门/6.纹理.md",
+    "入门/7.变换.md",
+    "入门/1.OpenGL.md",
     "入门/4.你好，三角形.md",
     "入门/2.创建窗口.md",
     "入门/5.着色器.md",
