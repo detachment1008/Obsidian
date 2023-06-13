@@ -1,64 +1,48 @@
 {
   "main": {
-    "id": "ff010aa7a3345ae9",
+    "id": "a2d73bd061d9061f",
     "type": "split",
     "children": [
       {
-        "id": "3aa7c633cd4acdb6",
+        "id": "2e6f531412eac53e",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e496472ae71b10",
+            "id": "0e2359ab944f64a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "入门/1.OpenGL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "f12e7e03868adf3b",
+            "id": "76beb80246b829d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "入门/3.你好，窗口.md",
+                "file": "1.配置.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42b0ff4d7de4fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "入门/7.变换.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "102816f6d07d194f",
+    "id": "a2a22206389ca80c",
     "type": "split",
     "children": [
       {
-        "id": "26e85b9af420263a",
+        "id": "21ecd7115893cbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "9c260fa09349a158",
+            "id": "8fd50a5be714ae54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +52,7 @@
             }
           },
           {
-            "id": "58da03d87eef6e8f",
+            "id": "cc170a2965bd4d77",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +67,7 @@
             }
           },
           {
-            "id": "3c1e4a4e8f51f2f8",
+            "id": "41ca1cee85df4e6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 300
   },
   "right": {
-    "id": "f61ec004750c193e",
+    "id": "ce6c3d5f6b9ede70",
     "type": "split",
     "children": [
       {
-        "id": "c123d9736fef7558",
+        "id": "fdcf028390f3e766",
         "type": "tabs",
         "children": [
           {
-            "id": "31dac27f7e5ea260",
+            "id": "3714544c3e7e1c27",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入门/7.变换.md",
+                "file": "1.配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +106,19 @@
             }
           },
           {
-            "id": "676a60264549715d",
+            "id": "9ab7850d5698a2fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "入门/7.变换.md",
+                "file": "1.配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3f4ab3570c82516",
+            "id": "1f23382052227870",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +129,12 @@
             }
           },
           {
-            "id": "2c37d87bef58c652",
+            "id": "050ce8bb7f24d5dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "入门/7.变换.md"
+                "file": "1.配置.md"
               }
             }
           }
@@ -171,29 +155,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e42b0ff4d7de4fef",
+  "active": "050ce8bb7f24d5dd",
   "lastOpenFiles": [
-    "入门/6.纹理.md",
-    "入门/7.变换.md",
-    "入门/1.OpenGL.md",
-    "入门/4.你好，三角形.md",
-    "入门/2.创建窗口.md",
-    "入门/5.着色器.md",
-    "入门/3.你好，窗口.md",
-    "未命名 1.md",
-    "入门",
-    "CPU程序/OpenGL程序流程.md",
-    "库/glm/基本.md",
-    "GPU程序/mat矩阵.md",
-    "计算机图形学基础/坐标系统.md",
-    "[.md",
-    "库/glm.md",
-    "库/glm",
-    "库",
-    "附件",
-    "计算机图形学基础",
-    "未命名.canvas",
-    "GPU程序",
-    "CPU程序"
+    "1.配置.md"
   ]
 }

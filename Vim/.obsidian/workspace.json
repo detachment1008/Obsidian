@@ -1,74 +1,49 @@
 {
   "main": {
-    "id": "ff010aa7a3345ae9",
+    "id": "061621eba47fd4e2",
     "type": "split",
     "children": [
       {
-        "id": "3aa7c633cd4acdb6",
+        "id": "875e4d6dd37eb02c",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e496472ae71b10",
+            "id": "a90238ee88d0e468",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "入门/1.OpenGL.md",
+                "file": "Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12e7e03868adf3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "入门/3.你好，窗口.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42b0ff4d7de4fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "入门/7.变换.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "102816f6d07d194f",
+    "id": "915f9c0c912b5dd9",
     "type": "split",
     "children": [
       {
-        "id": "26e85b9af420263a",
+        "id": "07c6f76527b20530",
         "type": "tabs",
         "children": [
           {
-            "id": "9c260fa09349a158",
+            "id": "afb6a2652ffbbe69",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
           {
-            "id": "58da03d87eef6e8f",
+            "id": "2ffd45507da42826",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "3c1e4a4e8f51f2f8",
+            "id": "f55a744f60bc579b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 300
   },
   "right": {
-    "id": "f61ec004750c193e",
+    "id": "4f11f0ce8f37d545",
     "type": "split",
     "children": [
       {
-        "id": "c123d9736fef7558",
+        "id": "57132b5f1a0bb663",
         "type": "tabs",
         "children": [
           {
-            "id": "31dac27f7e5ea260",
+            "id": "79b6d9a222c92bd4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入门/7.变换.md",
+                "file": "Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "676a60264549715d",
+            "id": "4e33048005eae02e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "入门/7.变换.md",
+                "file": "Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3f4ab3570c82516",
+            "id": "270890d8a3a595a2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +120,12 @@
             }
           },
           {
-            "id": "2c37d87bef58c652",
+            "id": "4d533e01956915e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "入门/7.变换.md"
+                "file": "Vim 实用技巧/第一部分 模式/第三章 插入模式.md"
               }
             }
           }
@@ -171,29 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e42b0ff4d7de4fef",
+  "active": "a90238ee88d0e468",
   "lastOpenFiles": [
-    "入门/6.纹理.md",
-    "入门/7.变换.md",
-    "入门/1.OpenGL.md",
-    "入门/4.你好，三角形.md",
-    "入门/2.创建窗口.md",
-    "入门/5.着色器.md",
-    "入门/3.你好，窗口.md",
-    "未命名 1.md",
-    "入门",
-    "CPU程序/OpenGL程序流程.md",
-    "库/glm/基本.md",
-    "GPU程序/mat矩阵.md",
-    "计算机图形学基础/坐标系统.md",
-    "[.md",
-    "库/glm.md",
-    "库/glm",
-    "库",
-    "附件",
-    "计算机图形学基础",
-    "未命名.canvas",
-    "GPU程序",
-    "CPU程序"
+    "Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
+    "Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
+    "Vim 实用技巧/第一章 Vim 解决问题的方式.md",
+    "未命名",
+    "Vim 实用技巧/第一部分 模式",
+    "Vim 实用技巧"
   ]
 }
