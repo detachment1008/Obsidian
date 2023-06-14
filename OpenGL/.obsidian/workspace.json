@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "入门/8.坐标系统.md",
+                "file": "入门/9.摄像机.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入门/8.坐标系统.md",
+                "file": "入门/9.摄像机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "入门/8.坐标系统.md",
+                "file": "入门/9.摄像机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "入门/8.坐标系统.md"
+                "file": "入门/9.摄像机.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "cc7b5e3bce1172f1",
   "lastOpenFiles": [
+    "入门/8.坐标系统.md",
+    "入门/9.摄像机.md",
+    "入门/7.变换.md",
     "入门/1.OpenGL.md",
     "入门/3.你好，窗口.md",
-    "入门/8.坐标系统.md",
-    "入门/7.变换.md",
     "入门/6.纹理.md",
     "入门/4.你好，三角形.md",
     "入门/2.创建窗口.md",
