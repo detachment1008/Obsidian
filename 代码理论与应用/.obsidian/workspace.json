@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "ff010aa7a3345ae9",
+    "id": "6e5b240082a4793b",
     "type": "split",
     "children": [
       {
-        "id": "0845583fa73cd1aa",
+        "id": "202fca285aaf4e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7b5e3bce1172f1",
+            "id": "8a8ed9d3985e3236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "入门/9.摄像机.md",
+                "file": "应用/OpenGL/2.光照/1.颜色.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "102816f6d07d194f",
+    "id": "77ea880b30670a31",
     "type": "split",
     "children": [
       {
-        "id": "26e85b9af420263a",
+        "id": "8ffc4ec6528ec375",
         "type": "tabs",
         "children": [
           {
-            "id": "9c260fa09349a158",
+            "id": "51d0e5064fa0d441",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "58da03d87eef6e8f",
+            "id": "64431931c3e2520b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "3c1e4a4e8f51f2f8",
+            "id": "fe2a0e304362e127",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 269.5
   },
   "right": {
-    "id": "f61ec004750c193e",
+    "id": "89a234478bcf6875",
     "type": "split",
     "children": [
       {
-        "id": "c123d9736fef7558",
+        "id": "c7075d79954bf9e2",
         "type": "tabs",
         "children": [
           {
-            "id": "31dac27f7e5ea260",
+            "id": "f2d4c4087eed334a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入门/9.摄像机.md",
+                "file": "应用/OpenGL/2.光照/1.颜色.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "676a60264549715d",
+            "id": "594013f7212d8183",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "入门/9.摄像机.md",
+                "file": "应用/OpenGL/2.光照/1.颜色.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3f4ab3570c82516",
+            "id": "08f30780eaa875b4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "2c37d87bef58c652",
+            "id": "0751b7de84b2601c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "入门/9.摄像机.md"
+                "file": "应用/OpenGL/2.光照/1.颜色.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,31 +146,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc7b5e3bce1172f1",
+  "active": "8a8ed9d3985e3236",
   "lastOpenFiles": [
-    "入门/8.坐标系统.md",
-    "入门/9.摄像机.md",
-    "入门/7.变换.md",
-    "入门/1.OpenGL.md",
-    "入门/3.你好，窗口.md",
-    "入门/6.纹理.md",
-    "入门/4.你好，三角形.md",
-    "入门/2.创建窗口.md",
-    "入门/5.着色器.md",
-    "未命名 1.md",
-    "入门",
-    "CPU程序/OpenGL程序流程.md",
-    "库/glm/基本.md",
-    "GPU程序/mat矩阵.md",
-    "计算机图形学基础/坐标系统.md",
-    "[.md",
-    "库/glm.md",
-    "库/glm",
-    "库",
-    "附件",
-    "计算机图形学基础",
-    "未命名.canvas",
-    "GPU程序",
-    "CPU程序"
+    "应用/OpenGL/2.光照/1.颜色.md",
+    "应用/OpenGL/2.光照",
+    "应用/xLua/入门/2.官方教程.md",
+    "应用/xLua/入门/1. 介绍.md",
+    "应用/xLua/入门",
+    "应用/xLua",
+    "应用/OpenGL/1.入门/7.变换.md",
+    "应用/OpenGL/1.入门/9.摄像机.md",
+    "应用/OpenGL/1.入门/8.坐标系统.md",
+    "应用/OpenGL/1.入门/5.着色器.md",
+    "应用/OpenGL/1.入门/6.纹理.md",
+    "应用/OpenGL/1.入门/4.你好，三角形.md",
+    "应用/OpenGL/1.入门/3.你好，窗口.md",
+    "应用/OpenGL/1.入门/2.创建窗口.md",
+    "应用/OpenGL/1.入门/1.OpenGL.md",
+    "应用/OpenGL/1.入门",
+    "应用/OpenGL",
+    "应用"
   ]
 }

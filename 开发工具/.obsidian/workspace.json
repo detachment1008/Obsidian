@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "d117937ff42ad5e6",
+    "id": "3c47bf993853a411",
     "type": "split",
     "children": [
       {
-        "id": "49d22f392cd9896a",
+        "id": "9f567e87dff7ad0b",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9ff1e40c93efee",
+            "id": "4a2dc58f10f047b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "词法/名词.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8b3c5073bd761a7b",
+    "id": "b9a9595a8fd2323d",
     "type": "split",
     "children": [
       {
-        "id": "e8eb778eb125aee1",
+        "id": "eaed59ee7d0e4674",
         "type": "tabs",
         "children": [
           {
-            "id": "6c7be265d6c57071",
+            "id": "bdd5ee6b87cde4eb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "9cdefe688c6b8044",
+            "id": "b2c06c549c012b83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "92da618e91176e67",
+            "id": "93b0e0dde49e54c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300
   },
   "right": {
-    "id": "827ec8fbeb289c0a",
+    "id": "c7bf6106b868ea82",
     "type": "split",
     "children": [
       {
-        "id": "f73a67c762565b9b",
+        "id": "155a535d8db6e336",
         "type": "tabs",
         "children": [
           {
-            "id": "da4fd6837c95b8ee",
+            "id": "31e51169a56d6e48",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "词法/名词.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "3a471da311f35f0f",
+            "id": "001ea9d6375cf959",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "词法/名词.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fa3e490f97428d98",
+            "id": "42464b8ace832b75",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,21 @@
             }
           },
           {
-            "id": "82b7639bf62e0af4",
+            "id": "cd2c5b702d60b042",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "词法/名词.md"
+                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,18 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c9ff1e40c93efee",
+  "active": "4a2dc58f10f047b3",
   "lastOpenFiles": [
-    "句式.md",
-    "句式成分/主语.md",
-    "词法/名词.md",
-    "词法",
-    "句式成分/状语",
-    "句式成分/定语",
-    "句式成分/宾语",
-    "句式成分/谓语",
-    "句式成分/主语",
-    "句式成分",
-    "时态.md"
+    "编辑器",
+    "版本控制"
   ]
 }
