@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 629.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2cd617a7cf9b763",
@@ -129,12 +130,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe4ddeeacd6197cf",
+  "active": "fd463b87e96f50e0",
   "lastOpenFiles": [
     "图形学/Fundamentals of Computer Graphics(5th)/2.Miscellaneout Math.md",
     "图形学/Fundamentals of Computer Graphics(5th)/3.Raster Image.md",
