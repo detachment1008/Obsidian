@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd01c2f447bfde0",
+        "id": "7b27586364118019",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4ddeeacd6197cf",
+            "id": "ff87d5ad5c4a96bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图形学/Fundamentals of Computer Graphics(5th)/3.Raster Image.md",
+                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 629.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "c2cd617a7cf9b763",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图形学/Fundamentals of Computer Graphics(5th)/3.Raster Image.md",
+                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图形学/Fundamentals of Computer Graphics(5th)/3.Raster Image.md",
+                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图形学/Fundamentals of Computer Graphics(5th)/3.Raster Image.md"
+                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md"
               }
             }
           }
@@ -147,12 +146,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd463b87e96f50e0",
+  "active": "ff87d5ad5c4a96bb",
   "lastOpenFiles": [
-    "图形学/Fundamentals of Computer Graphics(5th)/2.Miscellaneout Math.md",
-    "图形学/Fundamentals of Computer Graphics(5th)/3.Raster Image.md",
-    "图形学/Fundamentals of Computer Graphics(5th)/1.Introduction.md",
-    "图形学/Fundamentals of Computer Graphics(5th)",
+    "游戏引擎/GAMES104/5.渲染系统(二)：渲染中光和材质的数学魔法.md",
+    "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
+    "计算机组成原理/深入理解计算机系统/1.Course Overview.md",
+    "计算机组成原理/深入理解计算机系统",
+    "计算机组成原理",
+    "Pasted image 20230618110333.png",
+    "游戏引擎/GAMES104/4.渲染系统(一)：游戏引擎中的渲染实践.md",
+    "游戏引擎/GAMES104/2.基础架构(一)：引擎架构分层.md",
+    "游戏引擎/GAMES104/3.基础架构(二)：如何构建游戏世界.md",
+    "游戏引擎/GAMES104/1.游戏引擎导论.md",
+    "图形学/Fundamentals of Computer Graphics/4.光线追踪.md",
+    "游戏引擎/GAMES104",
+    "游戏引擎/未命名.md",
+    "游戏引擎",
+    "图形学/Fundamentals of Computer Graphics/3.Raster Image.md",
+    "图形学/Fundamentals of Computer Graphics/2.Miscellaneout Math.md",
+    "图形学/Fundamentals of Computer Graphics/1.Introduction.md",
+    "图形学/Fundamentals of Computer Graphics",
     "图形学",
     "英语/词法/名词.md",
     "英语/句式成分/主语.md",
