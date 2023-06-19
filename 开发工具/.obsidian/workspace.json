@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
+                "file": "版本控制/Git/1.配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
+                "file": "版本控制/Git/1.配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
+                "file": "版本控制/Git/1.配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md"
+                "file": "版本控制/Git/1.配置.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a2dc58f10f047b3",
+  "active": "cd2c5b702d60b042",
   "lastOpenFiles": [
+    "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
     "编辑器",
     "版本控制"
   ]
