@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b27586364118019",
+        "id": "1b8a2b1a392403f0",
         "type": "tabs",
         "children": [
           {
-            "id": "ff87d5ad5c4a96bb",
+            "id": "4f83613b97bca148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff87d5ad5c4a96bb",
+  "active": "4f83613b97bca148",
   "lastOpenFiles": [
-    "游戏引擎/GAMES104/5.渲染系统(二)：渲染中光和材质的数学魔法.md",
     "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
+    "游戏引擎/GAMES104/5.渲染系统(二)：渲染中光和材质的数学魔法.md",
     "计算机组成原理/深入理解计算机系统/1.Course Overview.md",
     "计算机组成原理/深入理解计算机系统",
     "计算机组成原理",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "202fca285aaf4e9b",
+        "id": "407aa993c4448c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "8a8ed9d3985e3236",
+            "id": "33c9cc486a88041b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用/OpenGL/2.光照/1.颜色.md",
+                "file": "应用/OpenGL/2.光照/3.材质.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用/OpenGL/2.光照/1.颜色.md",
+                "file": "应用/OpenGL/2.光照/3.材质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用/OpenGL/2.光照/1.颜色.md",
+                "file": "应用/OpenGL/2.光照/3.材质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用/OpenGL/2.光照/1.颜色.md"
+                "file": "应用/OpenGL/2.光照/3.材质.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a8ed9d3985e3236",
+  "active": "33c9cc486a88041b",
   "lastOpenFiles": [
+    "应用/OpenGL/2.光照/2.基础光照.md",
+    "应用/OpenGL/2.光照/3.材质.md",
     "应用/OpenGL/2.光照/1.颜色.md",
     "应用/OpenGL/2.光照",
     "应用/xLua/入门/2.官方教程.md",
