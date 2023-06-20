@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00807ed32022be7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "版本控制/Git/3.拉取仓库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/1.配置.md",
+                "file": "版本控制/Git/3.拉取仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/1.配置.md",
+                "file": "版本控制/Git/3.拉取仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/1.配置.md"
+                "file": "版本控制/Git/3.拉取仓库.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd2c5b702d60b042",
+  "active": "00807ed32022be7c",
   "lastOpenFiles": [
+    "版本控制/Git/2.创建仓库.md",
+    "版本控制/Git/3.拉取仓库.md",
+    "版本控制/Git/1.配置.md",
     "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
     "编辑器",
     "版本控制"
