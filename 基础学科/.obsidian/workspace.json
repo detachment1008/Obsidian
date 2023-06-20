@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "019f1b4b6fc1f559",
+        "id": "1b8a2b1a392403f0",
         "type": "tabs",
         "children": [
           {
-            "id": "080e3c6ede97e7a0",
+            "id": "4f83613b97bca148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行/2.信息的表示和处理.md",
+                "file": "游戏引擎/GAMES104/9.动画系统(一)：游戏引擎的动画技术基础(上).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 568.5
   },
   "right": {
     "id": "c2cd617a7cf9b763",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行/2.信息的表示和处理.md",
+                "file": "游戏引擎/GAMES104/9.动画系统(一)：游戏引擎的动画技术基础(上).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行/2.信息的表示和处理.md",
+                "file": "游戏引擎/GAMES104/9.动画系统(一)：游戏引擎的动画技术基础(上).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行/2.信息的表示和处理.md"
+                "file": "游戏引擎/GAMES104/9.动画系统(一)：游戏引擎的动画技术基础(上).md"
               }
             }
           }
@@ -146,18 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "080e3c6ede97e7a0",
+  "active": "4f83613b97bca148",
   "lastOpenFiles": [
-    "游戏引擎/GAMES104/9.动画系统(一)：游戏引擎的动画技术基础(上).md",
     "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行/2.信息的表示和处理.md",
     "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行",
-    "计算机组成原理/深入理解计算机系统/未命名.md",
-    "计算机组成原理/深入理解计算机系统/2.Bits, Bytes and Integer.md",
-    "计算机组成原理/深入理解计算机系统/1.Course Overview.md",
     "游戏引擎/GAMES104/8.渲染系统(四)：游戏中渲染管线、后处理和其他的一切.md",
+    "游戏引擎/GAMES104/9.动画系统(一)：游戏引擎的动画技术基础(上).md",
     "游戏引擎/GAMES104/7.渲染系统(三)：游戏中地形大气和云的渲染(下).md",
     "游戏引擎/GAMES104/6.渲染系统(三)：游戏中地形大气和云的渲染(上).md",
     "游戏引擎/GAMES104/5.渲染系统(二)：渲染中光和材质的数学魔法.md",
+    "计算机组成原理/深入理解计算机系统/1.Course Overview.md",
     "计算机组成原理/深入理解计算机系统",
     "计算机组成原理",
     "Pasted image 20230618110333.png",

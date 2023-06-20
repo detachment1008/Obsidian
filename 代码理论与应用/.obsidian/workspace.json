@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用/OpenGL/2.光照/3.材质.md",
+                "file": "应用/OpenGL/2.光照/4.光照贴图.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "89a234478bcf6875",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用/OpenGL/2.光照/3.材质.md",
+                "file": "应用/OpenGL/2.光照/4.光照贴图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用/OpenGL/2.光照/3.材质.md",
+                "file": "应用/OpenGL/2.光照/4.光照贴图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用/OpenGL/2.光照/3.材质.md"
+                "file": "应用/OpenGL/2.光照/4.光照贴图.md"
               }
             }
           }
@@ -148,8 +149,9 @@
   },
   "active": "33c9cc486a88041b",
   "lastOpenFiles": [
-    "应用/OpenGL/2.光照/2.基础光照.md",
     "应用/OpenGL/2.光照/3.材质.md",
+    "应用/OpenGL/2.光照/4.光照贴图.md",
+    "应用/OpenGL/2.光照/2.基础光照.md",
     "应用/OpenGL/2.光照/1.颜色.md",
     "应用/OpenGL/2.光照",
     "应用/xLua/入门/2.官方教程.md",
