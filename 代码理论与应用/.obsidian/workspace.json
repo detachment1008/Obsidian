@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "89a234478bcf6875",
@@ -149,8 +148,9 @@
   },
   "active": "33c9cc486a88041b",
   "lastOpenFiles": [
-    "应用/OpenGL/2.光照/3.材质.md",
+    "应用/OpenGL/1.入门/6.纹理.md",
     "应用/OpenGL/2.光照/4.光照贴图.md",
+    "应用/OpenGL/2.光照/3.材质.md",
     "应用/OpenGL/2.光照/2.基础光照.md",
     "应用/OpenGL/2.光照/1.颜色.md",
     "应用/OpenGL/2.光照",
@@ -162,7 +162,6 @@
     "应用/OpenGL/1.入门/9.摄像机.md",
     "应用/OpenGL/1.入门/8.坐标系统.md",
     "应用/OpenGL/1.入门/5.着色器.md",
-    "应用/OpenGL/1.入门/6.纹理.md",
     "应用/OpenGL/1.入门/4.你好，三角形.md",
     "应用/OpenGL/1.入门/3.你好，窗口.md",
     "应用/OpenGL/1.入门/2.创建窗口.md",
