@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
+                "file": "编译器/cmake/5.制作库文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
+                "file": "编译器/cmake/5.制作库文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
+                "file": "编译器/cmake/5.制作库文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md"
+                "file": "编译器/cmake/5.制作库文件.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "4a2dc58f10f047b3",
   "lastOpenFiles": [
-    "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
+    "编译器/cmake/4.指定头文件的目录.md",
+    "编译器/cmake/5.制作库文件.md",
+    "编译器/cmake/3.搜索文件.md",
+    "编译器/cmake/2.设置变量.md",
+    "编译器/cmake/1.必须部分.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
+    "编译器/cmake",
+    "编译器",
+    "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式",
