@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "407aa993c4448c1b",
+        "id": "1bdb6d07bb5cd1c9",
         "type": "tabs",
         "children": [
           {
-            "id": "33c9cc486a88041b",
+            "id": "47290cb581fff7ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用/OpenGL/2.光照/4.光照贴图.md",
+                "file": "面经/4.设计模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用/OpenGL/2.光照/4.光照贴图.md",
+                "file": "面经/4.设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用/OpenGL/2.光照/4.光照贴图.md",
+                "file": "面经/4.设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用/OpenGL/2.光照/4.光照贴图.md"
+                "file": "面经/4.设计模式.md"
               }
             }
           }
@@ -146,28 +146,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33c9cc486a88041b",
+  "active": "47290cb581fff7ad",
   "lastOpenFiles": [
-    "应用/OpenGL/1.入门/6.纹理.md",
+    "面经/2.资源.md",
+    "面经/3.网络.md",
+    "面经/4.设计模式.md",
+    "面经/1.渲染.md",
+    "面经/5.C++.md",
+    "面经/7.Lua.md",
+    "面经/6.CSarp.md",
+    "应用/Unity/放牛的星星/1.基础.md",
+    "应用/Unity/放牛的星星/1.基础",
+    "应用/Unity/放牛的星星",
+    "应用/Unity",
+    "应用/Unity.md",
+    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+    "C++/C++ Primer/第二部分：C++标准库/8.IO 库.md",
+    "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
+    "面经",
+    "应用/OpenGL/4.高级 OpenGL/1.深度测试.md",
+    "应用/OpenGL/4.高级 OpenGL",
+    "应用/OpenGL/3.模型加载/3.模型.md",
+    "应用/OpenGL/3.模型加载/2.网格.md",
+    "应用/OpenGL/3.模型加载/1.Assimp.md",
+    "应用/OpenGL/3.模型加载",
+    "应用/OpenGL/2.光照/6.多光源.md",
+    "C++/C++ Primer/第二部分：C++标准库",
+    "C++/C++ Primer",
+    "C++",
+    "应用/OpenGL/2.光照/5.投光物.md",
     "应用/OpenGL/2.光照/4.光照贴图.md",
+    "应用/OpenGL/1.入门/6.纹理.md",
     "应用/OpenGL/2.光照/3.材质.md",
     "应用/OpenGL/2.光照/2.基础光照.md",
     "应用/OpenGL/2.光照/1.颜色.md",
     "应用/OpenGL/2.光照",
     "应用/xLua/入门/2.官方教程.md",
     "应用/xLua/入门/1. 介绍.md",
-    "应用/xLua/入门",
-    "应用/xLua",
-    "应用/OpenGL/1.入门/7.变换.md",
-    "应用/OpenGL/1.入门/9.摄像机.md",
-    "应用/OpenGL/1.入门/8.坐标系统.md",
-    "应用/OpenGL/1.入门/5.着色器.md",
-    "应用/OpenGL/1.入门/4.你好，三角形.md",
-    "应用/OpenGL/1.入门/3.你好，窗口.md",
-    "应用/OpenGL/1.入门/2.创建窗口.md",
-    "应用/OpenGL/1.入门/1.OpenGL.md",
-    "应用/OpenGL/1.入门",
-    "应用/OpenGL",
-    "应用"
+    "应用/OpenGL/1.入门/7.变换.md"
   ]
 }
