@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md"
+                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "4bbf5e0ebbc5637a",
   "lastOpenFiles": [
+    "应用/设计模式/Head First/1.欢迎来到设计模式世界：设计模式入门.md",
+    "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
+    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+    "应用/设计模式/Head First",
+    "应用/设计模式",
+    "应用/Unity/放牛的星星/1.基础.md",
     "应用/OpenGL/4.高级 OpenGL/3.混合.md",
     "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
     "面经/4.设计模式.md",
@@ -157,12 +163,10 @@
     "面经/5.C++.md",
     "面经/7.Lua.md",
     "面经/6.CSarp.md",
-    "应用/Unity/放牛的星星/1.基础.md",
     "应用/Unity/放牛的星星/1.基础",
     "应用/Unity/放牛的星星",
     "应用/Unity",
     "应用/Unity.md",
-    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
     "C++/C++ Primer/第二部分：C++标准库/8.IO 库.md",
     "面经",
     "应用/OpenGL/4.高级 OpenGL/1.深度测试.md",
@@ -174,15 +178,11 @@
     "应用/OpenGL/2.光照/6.多光源.md",
     "C++/C++ Primer/第二部分：C++标准库",
     "C++/C++ Primer",
-    "C++",
     "应用/OpenGL/2.光照/5.投光物.md",
     "应用/OpenGL/2.光照/4.光照贴图.md",
     "应用/OpenGL/1.入门/6.纹理.md",
     "应用/OpenGL/2.光照/3.材质.md",
     "应用/OpenGL/2.光照/2.基础光照.md",
-    "应用/OpenGL/2.光照/1.颜色.md",
-    "应用/OpenGL/2.光照",
-    "应用/xLua/入门/2.官方教程.md",
-    "应用/xLua/入门/1. 介绍.md"
+    "应用/OpenGL/2.光照/1.颜色.md"
   ]
 }
