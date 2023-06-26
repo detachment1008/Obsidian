@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译器/cmake/3.搜索文件.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c7bf6106b868ea82",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译器/cmake/3.搜索文件.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译器/cmake/3.搜索文件.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译器/cmake/3.搜索文件.md"
+                "file": "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,27 +148,28 @@
   },
   "active": "4a2dc58f10f047b3",
   "lastOpenFiles": [
-    "编译器/cmake/2.设置变量.md",
-    "编译器/cmake/1.必须部分.md",
-    "编译器/cmake/12.嵌套的cmake.md",
-    "编译器/cmake/6.在程序中链接静态库.md",
-    "编译器/cmake/13.在静态库中链接静态库.md",
+    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
+    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
+    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
+    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
     "编译器/cmake/5.制作库文件.md",
-    "编译器/cmake/15.举例.md",
-    "编译器/cmake/14.在静态库中链接动态库.md",
-    "编译器/cmake/11.在cmake中自定义宏.md",
-    "编译器/cmake/10.list的其他命令.md",
     "编译器/cmake/9.字符串操作.md",
     "编译器/cmake/8.在cmake中打印日志信息.md",
     "编译器/cmake/7.在程序中链接动态库.md",
+    "编译器/cmake/6.在程序中链接静态库.md",
+    "编译器/cmake/15.举例.md",
+    "编译器/cmake/14.在静态库中链接动态库.md",
+    "编译器/cmake/13.在静态库中链接静态库.md",
+    "编译器/cmake/12.嵌套的cmake.md",
+    "编译器/cmake/11.在cmake中自定义宏.md",
+    "编译器/cmake/10.list的其他命令.md",
     "编译器/cmake/4.指定头文件的目录.md",
     "编译器/cmake/3.搜索文件.md",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
+    "编译器/cmake/2.设置变量.md",
+    "编译器/cmake/1.必须部分.md",
     "编译器/cmake",
     "编译器",
     "编辑器/Vim/Vim 实用技巧/第一章 Vim 解决问题的方式.md",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第三章 插入模式.md",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式",
     "版本控制/Git/1.配置.md",
     "版本控制/Git/3.拉取仓库.md",

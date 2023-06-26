@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏引擎/GAMES104/12.物理系统(一)：物理引擎中物理系统的基础理论和算法.md",
+                "file": "游戏引擎/GAMES104/13.物理系统(二)：高级应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏引擎/GAMES104/12.物理系统(一)：物理引擎中物理系统的基础理论和算法.md",
+                "file": "游戏引擎/GAMES104/13.物理系统(二)：高级应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏引擎/GAMES104/12.物理系统(一)：物理引擎中物理系统的基础理论和算法.md",
+                "file": "游戏引擎/GAMES104/13.物理系统(二)：高级应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏引擎/GAMES104/12.物理系统(一)：物理引擎中物理系统的基础理论和算法.md"
+                "file": "游戏引擎/GAMES104/13.物理系统(二)：高级应用.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b86623ac443a98f6",
   "lastOpenFiles": [
-    "游戏引擎/GAMES104/11.动画系统(二)：动画树、IK和表情动画.md",
     "游戏引擎/GAMES104/12.物理系统(一)：物理引擎中物理系统的基础理论和算法.md",
+    "游戏引擎/GAMES104/13.物理系统(二)：高级应用.md",
+    "游戏引擎/GAMES104/11.动画系统(二)：动画树、IK和表情动画.md",
     "游戏引擎/GAMES104/5.渲染系统(二)：渲染中光和材质的数学魔法.md",
     "游戏引擎/GAMES104/4.渲染系统(一)：游戏引擎中的渲染实践.md",
     "游戏引擎/GAMES104/10.动画系统(一)：游戏引擎的动画技术基础(下).md",
