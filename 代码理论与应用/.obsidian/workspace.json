@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "727de61e94aa1dc4",
+        "id": "f25361965734d7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "4bbf5e0ebbc5637a",
+            "id": "b5b6e6be7f657591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
+                "file": "面经/4.设计模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
+                "file": "面经/4.设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
+                "file": "面经/4.设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md"
+                "file": "面经/4.设计模式.md"
               }
             }
           }
@@ -146,14 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4bbf5e0ebbc5637a",
+  "active": "b5b6e6be7f657591",
   "lastOpenFiles": [
-    "应用/设计模式/Head First/1.欢迎来到设计模式世界：设计模式入门.md",
+    "面经/7.Lua.md",
+    "应用/设计模式/极客/1.设计原则.md",
+    "应用/设计模式/极客/2.模板方法模式.md",
+    "应用/设计模式/极客/3.策略模式.md",
+    "应用/设计模式/极客/4.观察者模式.md",
+    "应用/设计模式/Head First/4.烧烤OO的净化：工厂模式.md",
+    "应用/设计模式/极客",
+    "应用/设计模式/Head First/3.装饰对象：装饰者模式.md",
     "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
+    "应用/设计模式/Head First/1.欢迎来到设计模式世界：设计模式入门.md",
     "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+    "应用/Unity/放牛的星星/1.基础.md",
     "应用/设计模式/Head First",
     "应用/设计模式",
-    "应用/Unity/放牛的星星/1.基础.md",
     "应用/OpenGL/4.高级 OpenGL/3.混合.md",
     "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
     "面经/4.设计模式.md",
@@ -161,7 +169,6 @@
     "面经/3.网络.md",
     "面经/1.渲染.md",
     "面经/5.C++.md",
-    "面经/7.Lua.md",
     "面经/6.CSarp.md",
     "应用/Unity/放牛的星星/1.基础",
     "应用/Unity/放牛的星星",
@@ -176,13 +183,6 @@
     "应用/OpenGL/3.模型加载/1.Assimp.md",
     "应用/OpenGL/3.模型加载",
     "应用/OpenGL/2.光照/6.多光源.md",
-    "C++/C++ Primer/第二部分：C++标准库",
-    "C++/C++ Primer",
-    "应用/OpenGL/2.光照/5.投光物.md",
-    "应用/OpenGL/2.光照/4.光照贴图.md",
-    "应用/OpenGL/1.入门/6.纹理.md",
-    "应用/OpenGL/2.光照/3.材质.md",
-    "应用/OpenGL/2.光照/2.基础光照.md",
-    "应用/OpenGL/2.光照/1.颜色.md"
+    "C++/C++ Primer/第二部分：C++标准库"
   ]
 }
