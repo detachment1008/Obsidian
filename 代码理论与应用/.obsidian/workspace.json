@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面经/4.设计模式.md",
+                "file": "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/4.设计模式.md",
+                "file": "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经/4.设计模式.md",
+                "file": "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/4.设计模式.md"
+                "file": "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "b5b6e6be7f657591",
   "lastOpenFiles": [
+    "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
+    "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
+    "C++/C++ Primer/第二部分：C++标准库/10.泛型算法.md",
+    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
+    "面经/4.设计模式.md",
     "面经/7.Lua.md",
     "应用/设计模式/极客/1.设计原则.md",
     "应用/设计模式/极客/2.模板方法模式.md",
@@ -158,13 +163,11 @@
     "应用/设计模式/Head First/3.装饰对象：装饰者模式.md",
     "应用/设计模式/Head First/2.让你的对象知悉现况：观察者模式.md",
     "应用/设计模式/Head First/1.欢迎来到设计模式世界：设计模式入门.md",
-    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
     "应用/Unity/放牛的星星/1.基础.md",
     "应用/设计模式/Head First",
     "应用/设计模式",
     "应用/OpenGL/4.高级 OpenGL/3.混合.md",
     "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
-    "面经/4.设计模式.md",
     "面经/2.资源.md",
     "面经/3.网络.md",
     "面经/1.渲染.md",
@@ -179,10 +182,7 @@
     "应用/OpenGL/4.高级 OpenGL/1.深度测试.md",
     "应用/OpenGL/4.高级 OpenGL",
     "应用/OpenGL/3.模型加载/3.模型.md",
-    "应用/OpenGL/3.模型加载/2.网格.md",
-    "应用/OpenGL/3.模型加载/1.Assimp.md",
     "应用/OpenGL/3.模型加载",
-    "应用/OpenGL/2.光照/6.多光源.md",
     "C++/C++ Primer/第二部分：C++标准库"
   ]
 }
