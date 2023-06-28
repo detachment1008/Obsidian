@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f25361965734d7b9",
+        "id": "e76632a9f368c0e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b6e6be7f657591",
+            "id": "3d48b2d9dd42b059",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5b6e6be7f657591",
+  "active": "51d0e5064fa0d441",
   "lastOpenFiles": [
-    "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
+    "C++/C++ Primer/第三部分：类设计者的工具",
     "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
+    "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
     "C++/C++ Primer/第二部分：C++标准库/10.泛型算法.md",
     "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
     "面经/4.设计模式.md",
@@ -181,7 +182,6 @@
     "面经",
     "应用/OpenGL/4.高级 OpenGL/1.深度测试.md",
     "应用/OpenGL/4.高级 OpenGL",
-    "应用/OpenGL/3.模型加载/3.模型.md",
     "应用/OpenGL/3.模型加载",
     "C++/C++ Primer/第二部分：C++标准库"
   ]
