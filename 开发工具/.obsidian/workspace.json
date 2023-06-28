@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第二部分 文件/第七章 打开及保存文件.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第九章 在文件间跳转.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第二部分 文件/第七章 打开及保存文件.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第九章 在文件间跳转.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第二部分 文件/第七章 打开及保存文件.md",
+                "file": "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第九章 在文件间跳转.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第二部分 文件/第七章 打开及保存文件.md"
+                "file": "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第九章 在文件间跳转.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "4a2dc58f10f047b3",
   "lastOpenFiles": [
-    "编辑器/Vim/Vim 实用技巧/第二部分 文件/第六章 管理多个文件.md",
+    "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第八章 用动作命令在文档中移动.md",
+    "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第九章 在文件间跳转.md",
     "编辑器/Vim/Vim 实用技巧/第二部分 文件/第七章 打开及保存文件.md",
+    "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转",
+    "编辑器/Vim/Vim 实用技巧/第二部分 文件/第六章 管理多个文件.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
     "编辑器/Vim/Vim 实用技巧/第二部分 文件",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
@@ -176,7 +179,6 @@
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式",
     "版本控制/Git/1.配置.md",
     "版本控制/Git/3.拉取仓库.md",
-    "版本控制/Git/2.创建仓库.md",
     "编辑器",
     "版本控制"
   ]
