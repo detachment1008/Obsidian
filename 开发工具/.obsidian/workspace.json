@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/15.变基.md",
+                "file": "版本控制/Git/8.打标签.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/15.变基.md",
+                "file": "版本控制/Git/8.打标签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/15.变基.md",
+                "file": "版本控制/Git/8.打标签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/15.变基.md"
+                "file": "版本控制/Git/8.打标签.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a2dc58f10f047b3",
+  "active": "bdd5ee6b87cde4eb",
   "lastOpenFiles": [
-    "版本控制/Git/14.远程分支.md",
     "版本控制/Git/15.变基.md",
+    "版本控制/Git/14.远程分支.md",
     "版本控制/Git/13.分支开发工作流.md",
     "版本控制/Git/12.分支管理.md",
     "版本控制/Git/11.分支的新建与合并.md",
