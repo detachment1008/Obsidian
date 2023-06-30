@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
+                "file": "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
+                "file": "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
+                "file": "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md"
+                "file": "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "3d48b2d9dd42b059",
   "lastOpenFiles": [
-    "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
+    "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
+    "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md",
+    "C++/C++ Primer/第一部分：C++ 基础",
+    "C++/C++ Primer/第一部分：C++ 基础.md",
     "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
+    "C++/C++ Primer/第二部分：C++标准库/12.动态内存.md",
+    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
     "应用/设计模式/极客/5.装饰模式.md",
     "C++/C++ Primer/第三部分：类设计者的工具",
-    "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
     "C++/C++ Primer/第二部分：C++标准库/10.泛型算法.md",
-    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
     "面经/4.设计模式.md",
     "面经/7.Lua.md",
     "应用/设计模式/极客/1.设计原则.md",
@@ -179,10 +182,7 @@
     "应用/Unity/放牛的星星/1.基础",
     "应用/Unity/放牛的星星",
     "应用/Unity",
-    "应用/Unity.md",
-    "C++/C++ Primer/第二部分：C++标准库/8.IO 库.md",
     "面经",
-    "应用/OpenGL/4.高级 OpenGL",
-    "应用/OpenGL/3.模型加载"
+    "应用/OpenGL/4.高级 OpenGL"
   ]
 }
