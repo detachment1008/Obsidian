@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md",
+                "file": "版本控制/Git/4.记录每次更新到仓库.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "c7bf6106b868ea82",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md",
+                "file": "版本控制/Git/4.记录每次更新到仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md",
+                "file": "版本控制/Git/4.记录每次更新到仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md"
+                "file": "版本控制/Git/4.记录每次更新到仓库.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "4a2dc58f10f047b3",
   "lastOpenFiles": [
+    "版本控制/Git/3.获取仓库.md",
+    "版本控制/Git/4.记录每次更新到仓库.md",
+    "版本控制/Git/5.查看提交历史.md",
+    "版本控制/Git/7.远程仓库的使用.md",
+    "版本控制/Git/6.撤销操作.md",
+    "版本控制/Git/2.初次使用前的配置.md",
+    "编辑器/Vim/Vim 实用技巧/第二部分 文件/第六章 管理多个文件.md",
+    "编译器/cmake/1.必须部分.md",
+    "编译器/cmake/7.在程序中链接动态库.md",
+    "编译器/cmake/6.在程序中链接静态库.md",
+    "编译器/cmake/4.指定头文件的目录.md",
+    "编译器/cmake/3.搜索文件.md",
+    "编译器/cmake/2.设置变量.md",
+    "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md",
     "版本控制/Git/8.打标签.md",
     "版本控制/Git/15.变基.md",
     "版本控制/Git/14.远程分支.md",
@@ -156,27 +170,13 @@
     "版本控制/Git/11.分支的新建与合并.md",
     "版本控制/Git/10.分支简介.md",
     "版本控制/Git/9.Git 别名.md",
-    "版本控制/Git/7.远程仓库的使用.md",
-    "版本控制/Git/6.撤销操作.md",
-    "版本控制/Git/5.查看提交历史.md",
-    "版本控制/Git/4.记录每次更新到仓库.md",
-    "版本控制/Git/3.获取仓库.md",
-    "版本控制/Git/2.初次使用前的配置.md",
     "版本控制/Git/1.安装.md",
     "版本控制/Git/3.拉取仓库.md",
     "版本控制/Git/2.创建仓库.md",
     "版本控制/Git/1.配置.md",
-    "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md",
-    "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第九章 在文件间跳转.md",
     "编辑器/Vim/Vim 实用技巧/第四部分 寄存器",
-    "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转/第八章 用动作命令在文档中移动.md",
-    "编辑器/Vim/Vim 实用技巧/第二部分 文件/第七章 打开及保存文件.md",
     "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转",
-    "编辑器/Vim/Vim 实用技巧/第二部分 文件/第六章 管理多个文件.md",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
     "编辑器/Vim/Vim 实用技巧/第二部分 文件",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式.md",
     "编译器/cmake",
     "编译器",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式",
