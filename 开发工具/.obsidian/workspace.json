@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/4.记录每次更新到仓库.md",
+                "file": "编译器/cmake/1.必须部分.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/4.记录每次更新到仓库.md",
+                "file": "编译器/cmake/1.必须部分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/4.记录每次更新到仓库.md",
+                "file": "编译器/cmake/1.必须部分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/4.记录每次更新到仓库.md"
+                "file": "编译器/cmake/1.必须部分.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "4a2dc58f10f047b3",
   "lastOpenFiles": [
-    "版本控制/Git/3.获取仓库.md",
+    "编译器/cmake/2.设置变量.md",
+    "编译器/cmake/12.嵌套的cmake.md",
+    "编译器/cmake/1.必须部分.md",
     "版本控制/Git/4.记录每次更新到仓库.md",
+    "版本控制/Git/3.获取仓库.md",
     "版本控制/Git/5.查看提交历史.md",
     "版本控制/Git/7.远程仓库的使用.md",
     "版本控制/Git/6.撤销操作.md",
     "版本控制/Git/2.初次使用前的配置.md",
     "编辑器/Vim/Vim 实用技巧/第二部分 文件/第六章 管理多个文件.md",
-    "编译器/cmake/1.必须部分.md",
     "编译器/cmake/7.在程序中链接动态库.md",
     "编译器/cmake/6.在程序中链接静态库.md",
     "编译器/cmake/4.指定头文件的目录.md",
     "编译器/cmake/3.搜索文件.md",
-    "编译器/cmake/2.设置变量.md",
     "编辑器/Vim/Vim 实用技巧/第四部分 寄存器/第十章 复制与粘贴.md",
     "版本控制/Git/8.打标签.md",
     "版本控制/Git/15.变基.md",
@@ -173,7 +174,6 @@
     "版本控制/Git/1.安装.md",
     "版本控制/Git/3.拉取仓库.md",
     "版本控制/Git/2.创建仓库.md",
-    "版本控制/Git/1.配置.md",
     "编辑器/Vim/Vim 实用技巧/第四部分 寄存器",
     "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转",
     "编辑器/Vim/Vim 实用技巧/第二部分 文件",
