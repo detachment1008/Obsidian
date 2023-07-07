@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md",
+                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md",
+                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md",
+                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md"
+                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md"
               }
             }
           }
@@ -146,10 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "775fa09c54e1b129",
+  "active": "51d0e5064fa0d441",
   "lastOpenFiles": [
-    "C++/C++面向对象高级开发(下)/16.组合、继承关系下的构造和析构.md",
+    "应用/Unity组件学习/1.渲染/2.Mesh Renderer.md",
+    "应用/Unity组件学习/1.渲染/3.Skinned Mesh Renderer.md",
+    "应用/Unity组件学习/1.渲染/4.UI - Graphic.md",
+    "C++/C++ Primer(二)/二.class/第7章 类.md",
+    "C++/C++ Primer(二)/二.class/第15章 面向对象程序设计.md",
+    "C++/C++ Primer(二)/四.Template",
+    "C++/C++ Primer(二)/三.STL",
+    "C++/C++ Primer(二)/二000",
+    "C++/C++ Primer(二)/一.c语言",
+    "C++/C++ Primer(二)/二.class/第14章 操作符重载与类型转换.md",
+    "C++/C++ Primer(二)/二.class/第13章 拷贝控制.md",
+    "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
+    "C++/C++ Primer(二)/二.class",
+    "C++/C++ Primer(二)",
+    "C++/C++ Primer(二)/13.拷贝控制.md",
+    "C++/C++ Primer(二)",
+    "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
+    "C++/C++面向对象高级开发(下)/20.new和delete.md",
+    "C++/C++面向对象高级开发(下)/19.const.md",
+    "C++/C++面向对象高级开发(下)/18.关于this.md",
     "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md",
+    "C++/C++面向对象高级开发(下)/16.组合、继承关系下的构造和析构.md",
     "C++/C++面向对象高级开发(下)/15.引用.md",
     "C++/C++面向对象高级开发(下)/14.三个主题.md",
     "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md",
@@ -161,28 +181,8 @@
     "C++/C++面向对象高级开发(下)/11.模板偏特化.md",
     "C++/C++面向对象高级开发(下)/10.模板特化.md",
     "C++/C++面向对象高级开发(下)/9.成员模板.md",
-    "C++/C++面向对象高级开发(下)/8.函数模板.md",
-    "C++/C++面向对象高级开发(下)/7.类模板.md",
-    "C++/C++面向对象高级开发(下)/6.namespace经验之谈.md",
-    "C++/C++面向对象高级开发(下)/5.像函数的类.md",
-    "C++/C++面向对象高级开发(下)/4.像指针的类.md",
-    "C++/C++面向对象高级开发(下)/3.隐式且一个实参的构造函数.md",
-    "C++/C++面向对象高级开发(下)/2.转换函数.md",
-    "C++/C++面向对象高级开发(下)/1.导读.md",
-    "C++/C++面向对象高级开发(上)/8.堆、栈与内存管理.md",
-    "C++/C++面向对象高级开发(上)/12.委托相关的设计.md",
     "C++/C++面向对象高级开发(下)",
-    "C++/C++面向对象高级开发(上)/11.虚函数与多态.md",
-    "C++/C++面向对象高级开发(上)/补充丢失的10：类模板，函数模板，以及其他.md",
-    "C++/C++面向对象高级开发(上)/10.组合与继承.md",
     "应用/Unity组件学习/1.渲染",
-    "应用/Unity组件学习",
-    "C++/C++面向对象高级开发(上)",
-    "C++/从零打造3D引擎",
-    "C++/现代C++中的高性能并行编程与优化",
-    "Lua/Lua程序设计/第一部分",
-    "Lua/Lua程序设计",
-    "Lua",
-    "C++/C++ Primer/第一部分：C++ 基础"
+    "应用/Unity组件学习"
   ]
 }
