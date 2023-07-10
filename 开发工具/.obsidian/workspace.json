@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f567e87dff7ad0b",
+        "id": "d3b285b90cd61cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2dc58f10f047b3",
+            "id": "808b39a00458b49e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/从零配置Vim/11.插件管理.md",
+                "file": "编辑器/Vim/Vim用户手册/五分钟学会 vimscript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/从零配置Vim/11.插件管理.md",
+                "file": "编辑器/Vim/Vim用户手册/五分钟学会 vimscript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/从零配置Vim/11.插件管理.md",
+                "file": "编辑器/Vim/Vim用户手册/五分钟学会 vimscript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/从零配置Vim/11.插件管理.md"
+                "file": "编辑器/Vim/Vim用户手册/五分钟学会 vimscript.md"
               }
             }
           }
@@ -146,21 +146,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a2dc58f10f047b3",
+  "active": "808b39a00458b49e",
   "lastOpenFiles": [
+    "编辑器/Vim/Vim用户手册/3.调节Vim/1.创建新的命令.md",
+    "编辑器/Vim/Vim用户手册/五分钟学会 vimscript.md",
+    "编辑器/Vim/Vim用户手册/1.初步知识/2.Vim初步.md",
+    "编辑器/Vim/Vim用户手册/1.初步知识/1.关于本手册.md",
+    "编辑器/Vim/从零配置Vim/3.键盘映射进阶.md",
+    "编辑器/Vim/Vim用户手册/5.让Vim工作",
+    "编辑器/Vim/Vim用户手册/4.编写Vim脚本",
+    "编辑器/Vim/Vim用户手册/3.调节Vim",
+    "编辑器/Vim/Vim用户手册/2.高效的编辑",
+    "编辑器/Vim/Vim用户手册/1.初步知识",
+    "编辑器/Vim/Vim用户手册",
+    "编辑器/Vim/从零配置Vim/1.选项设置.md",
+    "编辑器/Vim/从零配置Vim/2.快捷键绑定.md",
     "编辑器/Vim/从零配置Vim/10.快捷键设置.md",
-    "编辑器/Vim/从零配置Vim/11.插件管理.md",
     "编辑器/Vim/从零配置Vim/9.初始配置.md",
     "编辑器/Vim/从零配置Vim/8.文件类型检测.md",
-    "编辑器/Vim/从零配置Vim/7.自动命令.md",
-    "编辑器/Vim/从零配置Vim/6.缩写.md",
     "编辑器/Vim/从零配置Vim/5.本地设置与全局设置.md",
     "编辑器/Vim/从零配置Vim/4.键盘映射的一些技巧.md",
-    "编辑器/Vim/从零配置Vim/3.键盘映射进阶.md",
-    "编辑器/Vim/从零配置Vim/2.快捷键绑定.md",
-    "编辑器/Vim/从零配置Vim/1.选项设置.md",
     "编辑器/Vim/从零配置Vim/0.Vimscript简介.md",
     "编译器/cmake/1.必须部分.md",
+    "编辑器/Vim/从零配置Vim/11.插件管理.md",
+    "编辑器/Vim/从零配置Vim/7.自动命令.md",
+    "编辑器/Vim/从零配置Vim/6.缩写.md",
     "编辑器/Vim/从零配置Vim",
     "编译器/cmake/2.设置变量.md",
     "编译器/cmake/12.嵌套的cmake.md",
@@ -171,17 +181,8 @@
     "版本控制/Git/6.撤销操作.md",
     "版本控制/Git/2.初次使用前的配置.md",
     "编辑器/Vim/Vim 实用技巧/第二部分 文件/第六章 管理多个文件.md",
-    "编译器/cmake/7.在程序中链接动态库.md",
-    "编译器/cmake/6.在程序中链接静态库.md",
-    "编译器/cmake/4.指定头文件的目录.md",
-    "编译器/cmake/3.搜索文件.md",
     "编辑器/Vim/Vim 实用技巧/第四部分 寄存器",
     "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转",
-    "编辑器/Vim/Vim 实用技巧/第二部分 文件",
-    "编译器/cmake",
-    "编译器",
-    "编辑器/Vim/Vim 实用技巧/第一部分 模式/第四章 可视模式",
-    "编辑器",
-    "版本控制"
+    "编辑器/Vim/Vim 实用技巧/第二部分 文件"
   ]
 }

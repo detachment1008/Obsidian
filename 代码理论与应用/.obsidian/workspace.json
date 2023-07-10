@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9511bc1b8702160",
+        "id": "c2b39e878b0de023",
         "type": "tabs",
         "children": [
           {
-            "id": "775fa09c54e1b129",
+            "id": "63bd648786712ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md",
+                "file": "C++/C++ Primer(二)/3.STL/第10章 泛型算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 307.5
   },
   "right": {
     "id": "89a234478bcf6875",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md",
+                "file": "C++/C++ Primer(二)/3.STL/第10章 泛型算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md",
+                "file": "C++/C++ Primer(二)/3.STL/第10章 泛型算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用/Unity组件学习/1.渲染/1.Mesh Filter.md"
+                "file": "C++/C++ Primer(二)/3.STL/第10章 泛型算法.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,43 +146,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51d0e5064fa0d441",
+  "active": "63bd648786712ac5",
   "lastOpenFiles": [
-    "应用/Unity组件学习/1.渲染/2.Mesh Renderer.md",
-    "应用/Unity组件学习/1.渲染/3.Skinned Mesh Renderer.md",
-    "应用/Unity组件学习/1.渲染/4.UI - Graphic.md",
-    "C++/C++ Primer(二)/二.class/第7章 类.md",
-    "C++/C++ Primer(二)/二.class/第15章 面向对象程序设计.md",
-    "C++/C++ Primer(二)/四.Template",
-    "C++/C++ Primer(二)/三.STL",
-    "C++/C++ Primer(二)/二000",
-    "C++/C++ Primer(二)/一.c语言",
-    "C++/C++ Primer(二)/二.class/第14章 操作符重载与类型转换.md",
-    "C++/C++ Primer(二)/二.class/第13章 拷贝控制.md",
-    "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
-    "C++/C++ Primer(二)/二.class",
-    "C++/C++ Primer(二)",
-    "C++/C++ Primer(二)/13.拷贝控制.md",
-    "C++/C++ Primer(二)",
-    "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
-    "C++/C++面向对象高级开发(下)/20.new和delete.md",
-    "C++/C++面向对象高级开发(下)/19.const.md",
-    "C++/C++面向对象高级开发(下)/18.关于this.md",
-    "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md",
-    "C++/C++面向对象高级开发(下)/16.组合、继承关系下的构造和析构.md",
-    "C++/C++面向对象高级开发(下)/15.引用.md",
-    "C++/C++面向对象高级开发(下)/14.三个主题.md",
-    "C++/C++ Primer/第一部分：C++ 基础/2.变量和基本类型.md",
-    "C++/现代C++中的高性能并行编程与优化/3.模板元编程与函数式.md",
-    "C++/现代C++中的高性能并行编程与优化/2.RALL内存管理.md",
-    "C++/现代C++中的高性能并行编程与优化/1.学C++从CMake开始学起.md",
-    "C++/C++面向对象高级开发(下)/13.关于C++标准库.md",
-    "C++/C++面向对象高级开发(下)/12.模板模板参数.md",
-    "C++/C++面向对象高级开发(下)/11.模板偏特化.md",
-    "C++/C++面向对象高级开发(下)/10.模板特化.md",
-    "C++/C++面向对象高级开发(下)/9.成员模板.md",
-    "C++/C++面向对象高级开发(下)",
-    "应用/Unity组件学习/1.渲染",
-    "应用/Unity组件学习"
+    "C++/C++ Primer(二)/3.STL/第9章 顺序容器.md",
+    "C++/C++ Primer(二)/3.STL/第10章 泛型算法.md",
+    "应用/设计模式/极客/6.桥模式.md",
+    "应用/设计模式/极客/5.装饰模式.md",
+    "应用/设计模式/极客/4.观察者模式.md",
+    "应用/设计模式/极客/3.策略模式.md",
+    "应用/设计模式/极客/2.模板方法模式.md",
+    "应用/设计模式/极客/1.设计原则.md",
+    "C++/C++ Primer(二)/2.class/第7章 类.md",
+    "C++/C++ Primer(二)/3.STL/第8章 IO类.md",
+    "C++/C++ Primer(二)/2.class/第13章 拷贝控制.md",
+    "C++/C++ Primer(二)/2.class/第14章 操作符重载与类型转换.md",
+    "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/1.MaskableGraphic.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base/1.Graphic.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/Mask",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/Graphic.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base/GraphicRegistry.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Interface/ICanvasElement.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base/CanvasUpdateRegistry.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/MaskableGraphic.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/性能优化.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base/LayoutRebuilder.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Enum/CanvasUpdate.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Enum",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/UI排序和合批.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Interface",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/名词解释.md",
+    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析",
+    "应用/Unity/3.资源层/特殊的文件夹.md",
+    "应用/Unity/1.工具层/框架",
+    "应用/Unity/2.功能层/2.渲染相关",
+    "应用/Unity/2.功能层/1.逻辑相关",
+    "应用/Unity/1.工具层"
   ]
 }
