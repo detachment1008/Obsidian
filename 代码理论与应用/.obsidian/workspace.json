@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用/OpenGL/4.高级 OpenGL/3.混合.md",
-                "mode": "source",
+                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用/OpenGL/4.高级 OpenGL/3.混合.md",
+                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用/OpenGL/4.高级 OpenGL/3.混合.md",
+                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用/OpenGL/4.高级 OpenGL/3.混合.md"
+                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "63bd648786712ac5",
   "lastOpenFiles": [
+    "应用/OpenGL/4.高级 OpenGL/3.混合.md",
     "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
     "C++/C++ Primer/第二部分：C++标准库/10.泛型算法.md",
     "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
@@ -176,7 +177,6 @@
     "C++/C++ Primer(二)/2.class/第7章 类.md",
     "C++/C++ Primer(二)/2.class/第13章 拷贝控制.md",
     "C++/C++ Primer(二)/2.class/第14章 操作符重载与类型转换.md",
-    "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/1.MaskableGraphic.md",
     "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/Mask",
     "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core",
     "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base",
