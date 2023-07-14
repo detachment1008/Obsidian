@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图形学/计算机图形学(二)/3. 光栅化算法.md",
-                "mode": "preview",
+                "file": "图形学/计算机图形学(二)/4.信号处理.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图形学/计算机图形学(二)/3. 光栅化算法.md",
+                "file": "图形学/计算机图形学(二)/4.信号处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图形学/计算机图形学(二)/3. 光栅化算法.md",
+                "file": "图形学/计算机图形学(二)/4.信号处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图形学/计算机图形学(二)/3. 光栅化算法.md"
+                "file": "图形学/计算机图形学(二)/4.信号处理.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,9 @@
   },
   "active": "231ffb88c75bb4d0",
   "lastOpenFiles": [
-    "图形学/计算机图形学(二)/2. 数学知识.md",
     "图形学/计算机图形学(二)/3. 光栅化算法.md",
+    "图形学/计算机图形学(二)/4.信号处理.md",
+    "图形学/计算机图形学(二)/2. 数学知识.md",
     "图形学/计算机图形学(二)/1. 引言.md",
     "图形学/Fundamentals of Computer Graphics/4.光线追踪.md",
     "图形学/计算机图形学(二)",
@@ -183,7 +184,6 @@
     "英语/词法/名词.md",
     "英语/句式成分/主语.md",
     "英语/词法",
-    "英语/时态.md",
     "英语/句式成分"
   ]
 }
