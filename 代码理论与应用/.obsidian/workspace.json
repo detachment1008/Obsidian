@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
+                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
+                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
+                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md"
+                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md"
               }
             }
           }
@@ -148,35 +148,35 @@
   },
   "active": "63bd648786712ac5",
   "lastOpenFiles": [
-    "应用/OpenGL/4.高级 OpenGL/3.混合.md",
-    "应用/OpenGL/4.高级 OpenGL/2.模板测试.md",
-    "C++/C++ Primer/第二部分：C++标准库/10.泛型算法.md",
-    "C++/C++ Primer/第二部分：C++标准库/11.关联容器.md",
-    "C++/C++ Primer(二)/3.STL/第10章 泛型算法.md",
-    "C++/C++ Primer/第二部分：C++标准库/9.顺序容器.md",
-    "C++/C++ Primer/第二部分：C++标准库/8.IO 库.md",
-    "C++/C++ Primer/第三部分：类设计者的工具/13.拷贝控制.md",
-    "C++/算法/LeetCode/1.数组.md",
-    "C++/C++ Primer(二)/3.STL/第11章 关联容器.md",
+    "C++/C++面向对象高级开发(下)/20.new和delete.md",
+    "C++/C++面向对象高级开发(下)/19.const.md",
+    "C++/C++面向对象高级开发(下)/18.关于this.md",
+    "C++/C++面向对象高级开发(下)/17.虚指针和虚表.md",
+    "C++/C++面向对象高级开发(下)/16.组合、继承关系下的构造和析构.md",
+    "C++/C++面向对象高级开发(下)/15.引用.md",
+    "C++/C++面向对象高级开发(下)/14.三个主题.md",
+    "C++/C++面向对象高级开发(下)/13.关于C++标准库.md",
+    "C++/C++面向对象高级开发(下)/12.模板模板参数.md",
+    "C++/C++面向对象高级开发(下)/11.模板偏特化.md",
+    "C++/C++面向对象高级开发(下)/10.模板特化.md",
+    "C++/C++面向对象高级开发(下)/9.成员模板.md",
+    "C++/C++面向对象高级开发(下)/8.函数模板.md",
+    "C++/C++面向对象高级开发(下)/7.类模板.md",
+    "C++/C++面向对象高级开发(下)/6.namespace经验之谈.md",
+    "C++/C++面向对象高级开发(下)/5.像函数的类.md",
+    "C++/C++面向对象高级开发(下)/4.像指针的类.md",
+    "C++/C++面向对象高级开发(下)/3.隐式且一个实参的构造函数.md",
+    "C++/C++面向对象高级开发(下)/2.转换函数.md",
+    "C++/C++面向对象高级开发(下)/1.导读.md",
+    "C++/C++面向对象高级开发(上)/10.组合与继承.md",
+    "C++/C++面向对象高级开发(上)/11.虚函数与多态.md",
+    "C++/C++面向对象高级开发(上)/补充丢失的10：类模板，函数模板，以及其他.md",
+    "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
     "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
+    "应用/OpenGL/4.高级 OpenGL/3.混合.md",
     "C++/算法/LeetCode",
-    "C++/从零打造3D引擎/第一集：什么是渲染.md",
-    "C++/现代C++中的高性能并行编程与优化/5.C++11多线程编程.md",
-    "C++/C++ Primer(二)/4.Template/第16章 模板与泛型编程.md",
-    "C++/C++ Primer(二)/3.STL/第9章 顺序容器.md",
-    "C++/C++ Primer(二)/3.STL/第8章 IO类.md",
-    "C++/算法/面试中的算法/1.数组和字符串.md",
     "C++/算法/面试中的算法",
     "C++/算法",
-    "应用/设计模式/极客/6.桥模式.md",
-    "应用/设计模式/极客/5.装饰模式.md",
-    "应用/设计模式/极客/4.观察者模式.md",
-    "应用/设计模式/极客/3.策略模式.md",
-    "应用/设计模式/极客/2.模板方法模式.md",
-    "应用/设计模式/极客/1.设计原则.md",
-    "C++/C++ Primer(二)/2.class/第7章 类.md",
-    "C++/C++ Primer(二)/2.class/第13章 拷贝控制.md",
-    "C++/C++ Primer(二)/2.class/第14章 操作符重载与类型转换.md",
     "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core/Mask",
     "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Core",
     "应用/Unity/2.功能层/1.逻辑相关/UGUI/源码剖析/Base",
