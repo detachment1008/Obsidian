@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md",
-                "mode": "preview",
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md",
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md",
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md"
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "808b39a00458b49e",
   "lastOpenFiles": [
-    "编译器/cmake/3.搜索文件.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 5 章 暂存区.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 4 章 git 初始化.md",
+    "版本控制/Git/Git pro/1.安装.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏",
+    "版本控制/Git/Git权威指南",
+    "版本控制/Git/未命名.md",
+    "版本控制/Git/HEAD 的理解.md",
+    "版本控制/Git/Git pro",
+    "版本控制/Git/Git pro/15.变基.md",
     "编译器/cmake/5.制作库文件.md",
+    "编译器/cmake/3.搜索文件.md",
     "编译器/cmake/12.嵌套的cmake.md",
     "编译器/cmake/4.指定头文件的目录.md",
     "编译器/cmake/2.设置变量.md",
@@ -173,16 +183,6 @@
     "编辑器/Vim/从零配置Vim/8.文件类型检测.md",
     "编辑器/Vim/从零配置Vim/5.本地设置与全局设置.md",
     "编辑器/Vim/从零配置Vim/4.键盘映射的一些技巧.md",
-    "编辑器/Vim/从零配置Vim/0.Vimscript简介.md",
-    "编辑器/Vim/从零配置Vim/11.插件管理.md",
-    "编辑器/Vim/从零配置Vim/7.自动命令.md",
-    "编辑器/Vim/从零配置Vim/6.缩写.md",
-    "编辑器/Vim/从零配置Vim",
-    "版本控制/Git/4.记录每次更新到仓库.md",
-    "版本控制/Git/3.获取仓库.md",
-    "版本控制/Git/5.查看提交历史.md",
-    "编辑器/Vim/Vim 实用技巧/第四部分 寄存器",
-    "编辑器/Vim/Vim 实用技巧/第三部分 更快地移动及跳转",
-    "编辑器/Vim/Vim 实用技巧/第二部分 文件"
+    "编辑器/Vim/从零配置Vim"
   ]
 }
