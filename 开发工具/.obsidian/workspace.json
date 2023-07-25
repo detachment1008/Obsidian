@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md"
+                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "808b39a00458b49e",
   "lastOpenFiles": [
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 5 章 暂存区.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 5 章 暂存区.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 4 章 git 初始化.md",
     "版本控制/Git/Git pro/1.安装.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏",
@@ -182,7 +183,6 @@
     "编辑器/Vim/从零配置Vim/9.初始配置.md",
     "编辑器/Vim/从零配置Vim/8.文件类型检测.md",
     "编辑器/Vim/从零配置Vim/5.本地设置与全局设置.md",
-    "编辑器/Vim/从零配置Vim/4.键盘映射的一些技巧.md",
     "编辑器/Vim/从零配置Vim"
   ]
 }

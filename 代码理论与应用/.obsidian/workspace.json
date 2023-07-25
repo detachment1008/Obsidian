@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
+                "file": "面经/1.渲染.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
+                "file": "面经/1.渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
+                "file": "面经/1.渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md"
+                "file": "面经/1.渲染.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "63bd648786712ac5",
   "lastOpenFiles": [
+    "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
     "C++/C++面向对象高级开发(下)/20.new和delete.md",
     "C++/C++面向对象高级开发(下)/19.const.md",
     "C++/C++面向对象高级开发(下)/18.关于this.md",
@@ -171,7 +172,6 @@
     "C++/C++面向对象高级开发(上)/10.组合与继承.md",
     "C++/C++面向对象高级开发(上)/11.虚函数与多态.md",
     "C++/C++面向对象高级开发(上)/补充丢失的10：类模板，函数模板，以及其他.md",
-    "C++/C++面向对象高级开发(下)/21.重载 operate new 和 operate delete.md",
     "C++/从零打造3D引擎/第二集：三维图形学中的线性代数.md",
     "应用/OpenGL/4.高级 OpenGL/3.混合.md",
     "C++/算法/LeetCode",
