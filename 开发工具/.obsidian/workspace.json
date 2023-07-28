@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
+                "file": "编译器/cmake/2.设置变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
+                "file": "编译器/cmake/2.设置变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
+                "file": "编译器/cmake/2.设置变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md"
+                "file": "编译器/cmake/2.设置变量.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "808b39a00458b49e",
   "lastOpenFiles": [
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
+    "编译器/cmake/4.指定头文件的目录.md",
+    "编译器/cmake/3.搜索文件.md",
+    "版本控制/Git/Git pro/Git 内部原理.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 5 章 暂存区.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 4 章 git 初始化.md",
     "版本控制/Git/Git pro/1.安装.md",
@@ -160,9 +163,7 @@
     "版本控制/Git/Git pro",
     "版本控制/Git/Git pro/15.变基.md",
     "编译器/cmake/5.制作库文件.md",
-    "编译器/cmake/3.搜索文件.md",
     "编译器/cmake/12.嵌套的cmake.md",
-    "编译器/cmake/4.指定头文件的目录.md",
     "编译器/cmake/2.设置变量.md",
     "编译器/cmake/1.必须部分.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
@@ -182,7 +183,6 @@
     "编辑器/Vim/从零配置Vim/10.快捷键设置.md",
     "编辑器/Vim/从零配置Vim/9.初始配置.md",
     "编辑器/Vim/从零配置Vim/8.文件类型检测.md",
-    "编辑器/Vim/从零配置Vim/5.本地设置与全局设置.md",
     "编辑器/Vim/从零配置Vim"
   ]
 }
