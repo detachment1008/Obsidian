@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/李治军/2.解开钢琴的盖子.md",
-                "mode": "source",
+                "file": "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/李治军/2.解开钢琴的盖子.md",
+                "file": "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/李治军/2.解开钢琴的盖子.md",
+                "file": "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/李治军/2.解开钢琴的盖子.md"
+                "file": "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md"
               }
             }
           }
@@ -148,37 +148,37 @@
   },
   "active": "231ffb88c75bb4d0",
   "lastOpenFiles": [
+    "图形学/Games101/3.光的传播理论/14.光线追踪(加速结构).md",
+    "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md",
+    "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
+    "图形学/Games101/3.光的传播理论/17.材质与外观.md",
+    "图形学/Games101/3.光的传播理论/18.高级光线传播与复杂外观建模.md",
+    "图形学/Games101/3.光的传播理论/19.相机与透镜.md",
+    "图形学/Games101/3.光的传播理论/20.光场，颜色与感知.md",
+    "图形学/Ray Tracing in One Weekend/12.散焦模糊.md",
+    "图形学/Ray Tracing in One Weekend/11.可自定义位置的摄像机.md",
+    "图形学/Ray Tracing in One Weekend/10.绝缘体材质.md",
+    "图形学/Ray Tracing in One Weekend/9.金属材质.md",
+    "图形学/Ray Tracing in One Weekend/1.概述.md",
+    "图形学/Ray Tracing in One Weekend/8.漫反射材质.md",
+    "图形学/Ray Tracing in One Weekend/7.反走样(抗锯齿).md",
+    "图形学/Ray Tracing in One Weekend/6.面法向与复数物体.md",
+    "图形学/Ray Tracing in One Weekend/5.加入球体.md",
+    "图形学/Ray Tracing in One Weekend/2.输出你的图像.md",
+    "图形学/Ray Tracing in One Weekend/4.光线，简单的摄像机，以及背景.md",
+    "图形学/Ray Tracing in One Weekend/3.vec3向量类.md",
+    "图形学/Ray Tracing in One Weekend/ppm 的一个简单例子.md",
+    "操作系统/李治军/2.解开钢琴的盖子.md",
     "操作系统/李治军/1.什么是操作系统.md",
     "操作系统/蒋岩炎/thread.h.md",
     "操作系统/蒋岩炎/4.并发控制：互斥.md",
     "操作系统/蒋岩炎/3.理解并发程序的执行.md",
     "操作系统/蒋岩炎/1.什么是程序和编译器.md",
-    "操作系统/蒋岩炎/2.多处理器编程：从入门到放弃.md",
-    "图形学/Ray Tracing in One Weekend/3.vec3向量类.md",
-    "图形学/Ray Tracing in One Weekend/ppm 的一个简单例子.md",
-    "图形学/Ray Tracing in One Weekend/2.输出你的图像.md",
-    "图形学/Ray Tracing in One Weekend/1.概述.md",
-    "图形学/Games101/4.动画与模拟/22.动画与模拟(求解微分方程，刚体与流体).md",
     "图形学/Ray Tracing in One Weekend",
-    "图形学/Games101/4.动画与模拟/21.动画与模拟(基本概念，质点弹簧系统，运动学).md",
-    "图形学/Games101/3.光的传播理论/17.材质与外观.md",
-    "图形学/Games101/3.光的传播理论/20.光场，颜色与感知.md",
-    "图形学/Games101/3.光的传播理论/19.相机与透镜.md",
-    "图形学/Games101/3.光的传播理论/18.高级光线传播与复杂外观建模.md",
-    "图形学/Games101/3.光的传播理论/14.光线追踪(加速结构).md",
     "图形学/Games101/4.材质与外观",
-    "操作系统/李治军/2.解开钢琴的盖子.md",
-    "计算机组成原理/深入理解计算机系统/第一部分 程序结构和执行/3.程序的机器级表示.md",
     "操作系统/李治军",
-    "游戏引擎/Unity Shader入门精要/第二篇 初级篇/第 5 章 开始 Unity Shader 学习之旅.md",
     "操作系统/蒋岩炎",
-    "游戏引擎/Unity Shader入门精要/第一篇 基础篇/第 3 章 Unity Shader 基础.md",
-    "游戏引擎/Unity Shader入门精要/第一篇 基础篇/第 4 章 学习 Shader 所需的数学基础.md",
-    "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md",
-    "图形学/Games101/3.光的传播理论/15.光线追踪(辐射度量学，渲染方程与全局光照).md",
-    "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
     "游戏引擎/Unity Shader入门精要/第二篇 初级篇",
-    "游戏引擎/Unity Shader入门精要/第二篇 初级篇‘.md",
     "游戏引擎/Unity Shader入门精要/第一篇 基础篇",
     "游戏引擎/Unity Shader入门精要",
     "操作系统",
