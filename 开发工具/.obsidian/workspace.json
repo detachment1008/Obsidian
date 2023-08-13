@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md",
+                "file": "编译器/cmake/1.必须部分.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md",
+                "file": "编译器/cmake/1.必须部分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md",
+                "file": "编译器/cmake/1.必须部分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md"
+                "file": "编译器/cmake/1.必须部分.md"
               }
             }
           }
@@ -161,9 +161,13 @@
   },
   "active": "39a9e4422e0268bf",
   "lastOpenFiles": [
+    "编译器/cmake/4.指定头文件的目录.md",
+    "编译器/cmake/3.搜索文件.md",
+    "编译器/cmake/5.制作库文件.md",
+    "编译器/cmake/1.必须部分.md",
+    "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md",
     "编辑器/Vim/Vim用户手册/3.调节Vim/usr_40.创建新的命令.md",
     "编辑器/Vim/Vim用户手册/3.调节Vim/1.创建新的命令.md",
-    "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md",
     "编辑器/Vim/Vim用户手册/2.高效的编辑/usr_28.折叠.md",
     "编辑器/Vim/Vim用户手册/2.高效的编辑/usr_20.快捷键入命令行.md",
     "编辑器/Vim/Vim用户手册/1.初步知识/usr_12.小窍门.md",
@@ -179,14 +183,10 @@
     "编辑器/Vim/Vim用户手册/1.初步知识/uer_02.Vim初步.md",
     "编辑器/Vim/Vim用户手册/五分钟学会 vimscript.md",
     "编辑器/Vim/Vim用户手册/1.初步知识/usr_04.做小改动.md",
-    "编译器/cmake/4.指定头文件的目录.md",
-    "编译器/cmake/3.搜索文件.md",
     "编译器/cmake/2.设置变量.md",
-    "编译器/cmake/1.必须部分.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第五章 命令行模式.md",
     "编辑器/Vim/Vim 实用技巧/第一部分 模式/第二章 普通模式.md",
     "版本控制/Git/Git pro/Git 内部原理.md",
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏",
     "版本控制/Git/Git权威指南",
     "版本控制/Git/Git pro",
