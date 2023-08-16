@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52c71c0bd841f11d",
+        "id": "054bf47b653d2eb7",
         "type": "tabs",
         "children": [
           {
-            "id": "231ffb88c75bb4d0",
+            "id": "fc33024750fed586",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,13 +138,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "231ffb88c75bb4d0",
+  "active": "fc33024750fed586",
   "lastOpenFiles": [
+    "计算机组成原理/编码/2.编码与组合.md",
+    "计算机组成原理/编码/1.至亲密友.md",
+    "计算机组成原理/深入理解计算机系统/第二部分 程序结构和执行/3.程序的机器级表示.md",
+    "计算机组成原理/编码",
+    "计算机组成原理/深入理解计算机系统/第二部分 程序结构和执行/2.信息的表示和处理.md",
+    "计算机组成原理/深入理解计算机系统/第一部分 计算机系统漫游",
+    "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
     "图形学/Games101/3.光的传播理论/15.光线追踪(辐射度量学，渲染方程与全局光照).md",
     "图形学/Games101/3.光的传播理论/17.材质与外观.md",
     "图形学/Games101/3.光的传播理论/13.光线追踪(基本原理).md",
     "图形学/Games101/3.光的传播理论/14.光线追踪(加速结构).md",
-    "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
     "图形学/Games101/3.光的传播理论/18.高级光线传播与复杂外观建模.md",
     "图形学/Games101/3.光的传播理论/19.相机与透镜.md",
     "图形学/Games101/3.光的传播理论/20.光场，颜色与感知.md",
@@ -170,10 +168,6 @@
     "图形学/Ray Tracing in One Weekend/3.vec3向量类.md",
     "图形学/Ray Tracing in One Weekend/ppm 的一个简单例子.md",
     "操作系统/李治军/2.解开钢琴的盖子.md",
-    "操作系统/李治军/1.什么是操作系统.md",
-    "操作系统/蒋岩炎/thread.h.md",
-    "操作系统/蒋岩炎/4.并发控制：互斥.md",
-    "操作系统/蒋岩炎/3.理解并发程序的执行.md",
     "图形学/Ray Tracing in One Weekend",
     "图形学/Games101/4.材质与外观",
     "操作系统/李治军",
@@ -182,8 +176,6 @@
     "游戏引擎/Unity Shader入门精要/第一篇 基础篇",
     "游戏引擎/Unity Shader入门精要",
     "操作系统",
-    "图形学/Games101/1.光栅化成像/未命名",
-    "图形学/Games101/4.动画与模拟",
     "Pasted image 20230618110333.png"
   ]
 }
