@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b831efe57368e1f3",
+        "id": "478ea64f5baf5c98",
         "type": "tabs",
         "children": [
           {
-            "id": "27bb0c224ec26620",
+            "id": "e2f3e5b2046bf69a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇编/王爽/第 3 章 寄存器(内存访问).md",
+                "file": "汇编/王爽/第 12 章 内中断.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "汇编/王爽/第 3 章 寄存器(内存访问).md",
+                "file": "汇编/王爽/第 12 章 内中断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "汇编/王爽/第 3 章 寄存器(内存访问).md",
+                "file": "汇编/王爽/第 12 章 内中断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "汇编/王爽/第 3 章 寄存器(内存访问).md"
+                "file": "汇编/王爽/第 12 章 内中断.md"
               }
             }
           }
@@ -146,11 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "27bb0c224ec26620",
+  "active": "e2f3e5b2046bf69a",
   "lastOpenFiles": [
+    "汇编/王爽/第 13 章 int 指令.md",
+    "汇编/王爽/第 8 章 数据处理的两个基本问题.md",
+    "汇编/王爽/第 12 章 内中断.md",
     "汇编/王爽/第 2 章 寄存器.md",
     "汇编/王爽/第 3 章 寄存器(内存访问).md",
+    "汇编/王爽/第 11 章 标志寄存器.md",
     "汇编/王爽/第 4 章 第一个程序.md",
+    "汇编/王爽/第 7 章 更灵活的定位内存地址的方法.md",
+    "汇编/王爽/第 10 章 CALL 和 RET 指令.md",
+    "汇编/王爽/第 9 章 转移指令的原理.md",
+    "汇编/王爽/第 6 章 包含多个段的程序.md",
+    "汇编/王爽/第 17 章 使用 BIOS 进行键盘输入和磁盘读写.md",
+    "汇编/王爽/第 16 章 直接定址表.md",
+    "汇编/王爽/第 15 章 外中断.md",
+    "汇编/王爽/第 14 章 端口.md",
+    "汇编/王爽/第 5 章 bx 和 loop 指令.md",
     "汇编/王爽/第 1 章 基础知识.md",
     "C++/算法/算法(第四版)/第 3 章 查找.md",
     "应用/Unity Shader入门精要/第二篇 初级篇/第 5 章 开始 Unity Shader 学习之旅.md",
@@ -164,25 +177,12 @@
     "应用/Unity Shader入门精要",
     "应用/xLua/入门/1. 介绍.md",
     "C++/算法/算法(第四版)/第 2 章 排序.md",
-    "C++/算法/算法(第四版)/第 1 章 基础.md",
-    "C++/侯捷/STL与泛型编程/第一讲/4.测试(二)：Vector.md",
-    "C++/算法/编程珠玑/第一部分 基础/第 1 章 开篇.md",
     "C++/算法/算法(第四版)",
-    "C++/算法/面试中的算法/1.数组和字符串.md",
-    "C++/侯捷/STL与泛型编程/2.容器/21.set,multiset深度探索.md",
     "C++/算法/编程珠玑/第三部分 应用",
     "C++/算法/编程珠玑/第二部分 性能",
     "C++/算法/编程珠玑/第一部分 基础",
     "C++/算法/编程珠玑",
-    "C++/侯捷/STL与泛型编程/第二讲/20.RB-tree 深度探索.md",
-    "C++/侯捷/STL与泛型编程/2.容器/18.deque、queue 和 stack.md",
-    "C++/侯捷/STL与泛型编程/2.容器/17.array、forward_list深度探索.md",
-    "C++/侯捷/STL与泛型编程/2.容器/16.vector.md",
-    "C++/侯捷/STL与泛型编程/3.迭代器/15.迭代器的设计原则和Iterator_Trails的作用与设计.md",
-    "C++/侯捷/STL与泛型编程/1.分配器/11.allocator.md",
-    "C++/侯捷/STL与泛型编程/2.容器/13.list.md",
     "C++/侯捷/STL与泛型编程/3.迭代器",
-    "C++/侯捷/STL与泛型编程/未命名.md",
     "C++/侯捷/STL与泛型编程/2.容器",
     "Pasted image 20230801074039.png"
   ]
