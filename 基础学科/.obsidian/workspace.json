@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "054bf47b653d2eb7",
+        "id": "448804c1d3248979",
         "type": "tabs",
         "children": [
           {
-            "id": "fc33024750fed586",
+            "id": "a90dd969e7721305",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md"
+              }
             }
           }
         ],
@@ -138,14 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc33024750fed586",
+  "active": "a90dd969e7721305",
   "lastOpenFiles": [
+    "计算机组成原理/深入理解计算机系统/第一次学习/第二部分 程序结构和执行/3.程序的机器级表示.md",
+    "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
+    "计算机组成原理/深入理解计算机系统/第二次学习",
+    "计算机组成原理/深入理解计算机系统/第一次学习",
+    "计算机组成原理/深入理解计算机系统/第一次学习/第二部分 程序结构和执行/2.信息的表示和处理.md",
     "计算机组成原理/编码/2.编码与组合.md",
     "计算机组成原理/编码/1.至亲密友.md",
-    "计算机组成原理/深入理解计算机系统/第二部分 程序结构和执行/3.程序的机器级表示.md",
     "计算机组成原理/编码",
-    "计算机组成原理/深入理解计算机系统/第二部分 程序结构和执行/2.信息的表示和处理.md",
-    "计算机组成原理/深入理解计算机系统/第一部分 计算机系统漫游",
+    "计算机组成原理/深入理解计算机系统/第一次学习/第一部分 计算机系统漫游",
     "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
     "图形学/Games101/3.光的传播理论/15.光线追踪(辐射度量学，渲染方程与全局光照).md",
     "图形学/Games101/3.光的传播理论/17.材质与外观.md",
@@ -167,15 +178,12 @@
     "图形学/Ray Tracing in One Weekend/4.光线，简单的摄像机，以及背景.md",
     "图形学/Ray Tracing in One Weekend/3.vec3向量类.md",
     "图形学/Ray Tracing in One Weekend/ppm 的一个简单例子.md",
-    "操作系统/李治军/2.解开钢琴的盖子.md",
     "图形学/Ray Tracing in One Weekend",
     "图形学/Games101/4.材质与外观",
     "操作系统/李治军",
     "操作系统/蒋岩炎",
     "游戏引擎/Unity Shader入门精要/第二篇 初级篇",
     "游戏引擎/Unity Shader入门精要/第一篇 基础篇",
-    "游戏引擎/Unity Shader入门精要",
-    "操作系统",
     "Pasted image 20230618110333.png"
   ]
 }
