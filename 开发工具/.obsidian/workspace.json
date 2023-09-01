@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
+                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
+                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
+                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/2.Git 基础.md"
+                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0939615d0c3b2560",
   "lastOpenFiles": [
-    "版本控制/Git/Git pro/第二次学习/1.起步.md",
     "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
+    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+    "版本控制/Git/Git pro/第二次学习/1.起步.md",
     "版本控制/Git/Git pro/第二次学习/未命名.md",
     "版本控制/Git/Git pro/1.安装.md",
     "版本控制/Git/Git pro/第二次学习",
@@ -175,7 +176,6 @@
     "编辑器/Vim/Vim用户手册/1.初步知识/usr_07.编辑多个文件.md",
     "编辑器/Vim/Vim用户手册/1.初步知识/usr_06.使用语法高亮.md",
     "编辑器/Vim/Vim用户手册/1.初步知识/usr_05.选项设置.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_01.关于本手册.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏",
     "版本控制/Git/Git权威指南",
     "版本控制/Git/Git pro",
