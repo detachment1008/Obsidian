@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4601505bf13a457d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a90dd969e7721305",
+  "active": "4601505bf13a457d",
   "lastOpenFiles": [
+    "数学/微积分的本质/1.概论.md",
+    "数学/微积分的本质",
+    "数学",
     "未命名.canvas",
     "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
     "计算机组成原理/深入理解计算机系统/第一次学习/第二部分 程序结构和执行/3.程序的机器级表示.md",
@@ -182,8 +196,6 @@
     "图形学/Games101/4.材质与外观",
     "操作系统/李治军",
     "操作系统/蒋岩炎",
-    "游戏引擎/Unity Shader入门精要/第二篇 初级篇",
-    "游戏引擎/Unity Shader入门精要/第一篇 基础篇",
     "Pasted image 20230618110333.png"
   ]
 }
