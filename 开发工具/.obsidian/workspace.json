@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4bee9f26fe1c54",
+        "id": "685572299f55e1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0939615d0c3b2560",
+            "id": "073b10f5d6590ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/Git pro/第二次学习/3.Git 分支.md"
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md"
               }
             }
           }
@@ -146,43 +146,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0939615d0c3b2560",
+  "active": "073b10f5d6590ac7",
   "lastOpenFiles": [
-    "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
-    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+    "版本控制/Git/命令学习/git clean.md",
+    "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
+    "版本控制/Git/命令学习/git stash.md",
+    "版本控制/Git/命令学习/git checkout.md",
+    "版本控制/Git/命令学习/git reset.md",
+    "版本控制/Git/命令学习/git add.md",
+    "版本控制/Git/命令学习/git log.md",
+    "版本控制/Git/命令学习/git show.md",
+    "版本控制/Git/命令学习/git reflog.md",
+    "版本控制/Git/命令学习/git rev-parse.md",
+    "版本控制/Git/命令学习/git format-patch.md",
+    "版本控制/Git/Git pro/第二次学习/6.GitHub.md",
+    "版本控制/Git/Git pro/第二次学习/5.分布式 Git.md",
+    "版本控制/Git/命令学习/git request-pull.md",
+    "版本控制/Git/命令学习/git branch.md",
+    "版本控制/Git/命令学习/git rebase.md",
+    "版本控制/Git/命令学习/git merge.md",
+    "版本控制/Git/命令学习/git commit.md",
+    "版本控制/Git/命令学习/未命名",
     "版本控制/Git/Git pro/第二次学习/1.起步.md",
-    "版本控制/Git/Git pro/第二次学习/未命名.md",
+    "版本控制/Git/Git pro/第二次学习/4.服务器上的 Git.md",
+    "编辑器/Vim/Vim 实用技巧/第五部分 模式/第 12 章 按模式匹配及按原义匹配.md",
+    "编辑器/Vim/vimgolf/加括号.md",
+    "编辑器/Vim/Vim 实用技巧/第五部分 模式",
+    "编辑器/Vim/vimgolf/添加行.md",
+    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+    "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
     "版本控制/Git/Git pro/1.安装.md",
     "版本控制/Git/Git pro/第二次学习",
-    "版本控制/Git/命令学习/1.git add.md",
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 6 章 Git 对象.md",
     "版本控制/Git/命令学习",
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 7 章 Git 重置.md",
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏/第 5 章 暂存区.md",
-    "编辑器/Vim/Vim用户手册/3.调节Vim/usr_41.编写 vim 脚本.md",
-    "编辑器/Vim/Vim用户手册/3.调节Vim/usr_40.创建新的命令.md",
-    "编译器/cmake/1.必须部分.md",
-    "编译器/cmake/4.指定头文件的目录.md",
-    "编译器/cmake/3.搜索文件.md",
-    "编译器/cmake/5.制作库文件.md",
-    "编辑器/Vim/Vim用户手册/3.调节Vim/1.创建新的命令.md",
-    "编辑器/Vim/Vim用户手册/2.高效的编辑/usr_28.折叠.md",
-    "编辑器/Vim/Vim用户手册/2.高效的编辑/usr_20.快捷键入命令行.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_12.小窍门.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_11.从崩溃中恢复.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_10.做大修改.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_09.使用 GUI 版本.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_08.分割窗口.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_07.编辑多个文件.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_06.使用语法高亮.md",
-    "编辑器/Vim/Vim用户手册/1.初步知识/usr_05.选项设置.md",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏",
     "版本控制/Git/Git权威指南",
     "版本控制/Git/Git pro",
     "编辑器/Vim/Vim用户手册/5.让Vim工作",
     "编辑器/Vim/Vim用户手册/4.编写Vim脚本",
-    "编辑器/Vim/Vim用户手册/3.调节Vim",
-    "编辑器/Vim/Vim用户手册/2.高效的编辑",
-    "编辑器/Vim/Vim用户手册/1.初步知识"
+    "编辑器/Vim/Vim用户手册/3.调节Vim"
   ]
 }

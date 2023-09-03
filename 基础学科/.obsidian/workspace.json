@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4601505bf13a457d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4601505bf13a457d",
+  "active": "a90dd969e7721305",
   "lastOpenFiles": [
     "数学/微积分的本质/1.概论.md",
     "数学/微积分的本质",
