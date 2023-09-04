@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
+                "file": "数学/微积分的本质/2.导数的悖论.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
+                "file": "数学/微积分的本质/2.导数的悖论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
+                "file": "数学/微积分的本质/2.导数的悖论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md"
+                "file": "数学/微积分的本质/2.导数的悖论.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   "active": "a90dd969e7721305",
   "lastOpenFiles": [
     "数学/微积分的本质/1.概论.md",
+    "数学/微积分的本质/2.导数的悖论.md",
+    "计算机组成原理/深入理解计算机系统/第二次学习/第 3 章 程序的机器级表示.md",
+    "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
     "数学/微积分的本质",
     "数学",
     "未命名.canvas",
-    "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
     "计算机组成原理/深入理解计算机系统/第一次学习/第二部分 程序结构和执行/3.程序的机器级表示.md",
     "计算机组成原理/深入理解计算机系统/第二次学习",
     "计算机组成原理/深入理解计算机系统/第一次学习",
@@ -179,8 +181,6 @@
     "图形学/Ray Tracing in One Weekend/6.面法向与复数物体.md",
     "图形学/Ray Tracing in One Weekend/5.加入球体.md",
     "图形学/Ray Tracing in One Weekend/2.输出你的图像.md",
-    "图形学/Ray Tracing in One Weekend/4.光线，简单的摄像机，以及背景.md",
-    "图形学/Ray Tracing in One Weekend/3.vec3向量类.md",
     "图形学/Ray Tracing in One Weekend",
     "图形学/Games101/4.材质与外观",
     "操作系统/李治军",
