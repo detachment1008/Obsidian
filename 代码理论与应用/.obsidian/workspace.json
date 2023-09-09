@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "6e5b240082a4793b",
+    "type": "split",
+    "children": [
+      {
+        "id": "474289ab6ad598cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf77bd67bddd8ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77ea880b30670a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffc4ec6528ec375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d0e5064fa0d441",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64431931c3e2520b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe2a0e304362e127",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.50043487548828
+  },
+  "right": {
+    "id": "89a234478bcf6875",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7075d79954bf9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d4c4087eed334a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "594013f7212d8183",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08f30780eaa875b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0751b7de84b2601c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bf77bd67bddd8ec3",
+  "lastOpenFiles": [
+    "汇编/王爽/第 12 章 内中断.md",
+    "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+    "正则表达式/精通正则表达式",
+    "正则表达式",
+    "汇编/王爽/第 13 章 int 指令.md",
+    "汇编/王爽/第 8 章 数据处理的两个基本问题.md",
+    "汇编/王爽/第 2 章 寄存器.md",
+    "汇编/王爽/第 3 章 寄存器(内存访问).md",
+    "汇编/王爽/第 11 章 标志寄存器.md",
+    "汇编/王爽/第 4 章 第一个程序.md",
+    "汇编/王爽/第 7 章 更灵活的定位内存地址的方法.md",
+    "汇编/王爽/第 10 章 CALL 和 RET 指令.md",
+    "汇编/王爽/第 9 章 转移指令的原理.md",
+    "汇编/王爽/第 6 章 包含多个段的程序.md",
+    "汇编/王爽/第 17 章 使用 BIOS 进行键盘输入和磁盘读写.md",
+    "汇编/王爽/第 16 章 直接定址表.md",
+    "汇编/王爽/第 15 章 外中断.md",
+    "汇编/王爽/第 14 章 端口.md",
+    "汇编/王爽/第 5 章 bx 和 loop 指令.md",
+    "汇编/王爽/第 1 章 基础知识.md",
+    "C++/算法/算法(第四版)/第 3 章 查找.md",
+    "应用/Unity Shader入门精要/第二篇 初级篇/第 5 章 开始 Unity Shader 学习之旅.md",
+    "应用/Unity Shader入门精要/第一篇 基础篇/第 4 章 学习 Shader 所需的数学基础.md",
+    "应用/Unity Shader入门精要/第一篇 基础篇/第 3 章 Unity Shader 基础.md",
+    "应用/Unity Shader入门精要/第一篇 基础篇/第 2 章 渲染流水线.md",
+    "应用/Unity Shader入门精要/第一篇 基础篇/第 1 章 欢迎来到 Shader 的世界.md",
+    "应用/xLua/入门/2.官方教程.md",
+    "应用/Unity Shader入门精要/第二篇 初级篇",
+    "应用/Unity Shader入门精要/第一篇 基础篇",
+    "应用/Unity Shader入门精要",
+    "应用/xLua/入门/1. 介绍.md",
+    "C++/算法/算法(第四版)",
+    "C++/算法/编程珠玑/第三部分 应用",
+    "C++/算法/编程珠玑/第二部分 性能",
+    "C++/算法/编程珠玑/第一部分 基础",
+    "C++/算法/编程珠玑",
+    "Pasted image 20230801074039.png"
+  ]
+}

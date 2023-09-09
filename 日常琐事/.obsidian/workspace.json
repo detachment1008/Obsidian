@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "a15499cd024fe97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6048178bb432bfe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68db5d4bc77a2c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "博乐/2023-09-01技术交流会.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "561a5331801de601",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b11e4fa9d45438a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bae3ea6fcef2703",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c46aabe88dcc445a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b1fdee68ecdca62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1985612a272fe6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b221a2b234aaabde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b021f8e75e08aaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "博乐/2023-09-01技术交流会.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ba6de81fdb53fcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "博乐/2023-09-01技术交流会.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89bcd407a73903d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82bad997fc7b4eba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "博乐/2023-09-01技术交流会.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "68db5d4bc77a2c03",
+  "lastOpenFiles": [
+    "Pasted image 20230831172126.png",
+    "博乐/2023-09-01技术交流会.md"
+  ]
+}

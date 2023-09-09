@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3c47bf993853a411",
+    "type": "split",
+    "children": [
+      {
+        "id": "685572299f55e1f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073b10f5d6590ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9a9595a8fd2323d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaed59ee7d0e4674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdd5ee6b87cde4eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2c06c549c012b83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93b0e0dde49e54c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "c7bf6106b868ea82",
+    "type": "split",
+    "children": [
+      {
+        "id": "155a535d8db6e336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e51169a56d6e48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "001ea9d6375cf959",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42464b8ace832b75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd2c5b702d60b042",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "版本控制/Git/Git pro/第二次学习/7.Git 工具.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "073b10f5d6590ac7",
+  "lastOpenFiles": [
+    "版本控制/Git/命令学习/git clean.md",
+    "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
+    "版本控制/Git/命令学习/git stash.md",
+    "版本控制/Git/命令学习/git checkout.md",
+    "版本控制/Git/命令学习/git reset.md",
+    "版本控制/Git/命令学习/git add.md",
+    "版本控制/Git/命令学习/git log.md",
+    "版本控制/Git/命令学习/git show.md",
+    "版本控制/Git/命令学习/git reflog.md",
+    "版本控制/Git/命令学习/git rev-parse.md",
+    "版本控制/Git/命令学习/git format-patch.md",
+    "版本控制/Git/Git pro/第二次学习/6.GitHub.md",
+    "版本控制/Git/Git pro/第二次学习/5.分布式 Git.md",
+    "版本控制/Git/命令学习/git request-pull.md",
+    "版本控制/Git/命令学习/git branch.md",
+    "版本控制/Git/命令学习/git rebase.md",
+    "版本控制/Git/命令学习/git merge.md",
+    "版本控制/Git/命令学习/git commit.md",
+    "版本控制/Git/命令学习/未命名",
+    "版本控制/Git/Git pro/第二次学习/1.起步.md",
+    "版本控制/Git/Git pro/第二次学习/4.服务器上的 Git.md",
+    "编辑器/Vim/Vim 实用技巧/第五部分 模式/第 12 章 按模式匹配及按原义匹配.md",
+    "编辑器/Vim/vimgolf/加括号.md",
+    "编辑器/Vim/Vim 实用技巧/第五部分 模式",
+    "编辑器/Vim/vimgolf/添加行.md",
+    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+    "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
+    "版本控制/Git/Git pro/1.安装.md",
+    "版本控制/Git/Git pro/第二次学习",
+    "版本控制/Git/命令学习",
+    "版本控制/Git/Git权威指南/第二篇 Git 独奏",
+    "版本控制/Git/Git权威指南",
+    "版本控制/Git/Git pro",
+    "编辑器/Vim/Vim用户手册/5.让Vim工作",
+    "编辑器/Vim/Vim用户手册/4.编写Vim脚本",
+    "编辑器/Vim/Vim用户手册/3.调节Vim"
+  ]
+}
