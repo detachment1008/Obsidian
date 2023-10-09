@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/普林斯顿微积分读本/第 3 章 极限导论.md",
+                "file": "数学/普林斯顿微积分读本/第 5 章 连续性和可导性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/普林斯顿微积分读本/第 3 章 极限导论.md",
+                "file": "数学/普林斯顿微积分读本/第 5 章 连续性和可导性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/普林斯顿微积分读本/第 3 章 极限导论.md",
+                "file": "数学/普林斯顿微积分读本/第 5 章 连续性和可导性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/普林斯顿微积分读本/第 3 章 极限导论.md"
+                "file": "数学/普林斯顿微积分读本/第 5 章 连续性和可导性.md"
               }
             }
           },
@@ -158,15 +158,17 @@
   },
   "active": "a90dd969e7721305",
   "lastOpenFiles": [
-    "数学/普林斯顿微积分读本/第 2 章 三角学回顾.md",
+    "数学/普林斯顿微积分读本/第 4 章 求解多项式的极限问题.md",
+    "数学/普林斯顿微积分读本/第 5 章 连续性和可导性.md",
     "数学/普林斯顿微积分读本/第 3 章 极限导论.md",
+    "数学/微积分的本质/3.用几何来求导.md",
+    "数学/普林斯顿微积分读本/第 2 章 三角学回顾.md",
     "数学/普林斯顿微积分读本/第 1 章 函数、图像和直线.md",
     "数学/未命名.md",
     "数学/微积分的本质/1.概论.md",
     "数学/普林斯顿微积分读本",
     "计算机组成原理/深入理解计算机系统/第二次学习/第 4 章 处理器体系结构.md",
     "计算机组成原理/深入理解计算机系统/第二次学习/第 3 章 程序的机器级表示.md",
-    "数学/微积分的本质/3.用几何来求导.md",
     "数学/微积分的本质/2.导数的悖论.md",
     "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
     "数学/微积分的本质",
@@ -190,8 +192,6 @@
     "图形学/Games101/3.光的传播理论/20.光场，颜色与感知.md",
     "图形学/Ray Tracing in One Weekend/12.散焦模糊.md",
     "图形学/Ray Tracing in One Weekend/11.可自定义位置的摄像机.md",
-    "图形学/Ray Tracing in One Weekend/10.绝缘体材质.md",
-    "图形学/Ray Tracing in One Weekend/9.金属材质.md",
     "图形学/Ray Tracing in One Weekend",
     "图形学/Games101/4.材质与外观",
     "操作系统/李治军",
