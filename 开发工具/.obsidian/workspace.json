@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制/Git/命令学习/command.md",
+                "file": "编译器/cmake/5.制作库文件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制/Git/命令学习/command.md",
+                "file": "编译器/cmake/5.制作库文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制/Git/命令学习/command.md",
+                "file": "编译器/cmake/5.制作库文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制/Git/命令学习/command.md"
+                "file": "编译器/cmake/5.制作库文件.md"
               }
             }
           },
@@ -158,8 +158,18 @@
   },
   "active": "073b10f5d6590ac7",
   "lastOpenFiles": [
-    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
+    "编译器/cmake/2.设置变量.md",
+    "编译器/cmake/1.必须部分.md",
+    "编辑器/nvim/1. nvim 接口.md",
+    "编译器/cmake/5.制作库文件.md",
+    "编译器/cmake/3.搜索文件.md",
+    "编译器/cmake/4.指定头文件的目录.md",
+    "编译器/cmake/13.在静态库中链接静态库.md",
+    "编译器/cmake/14.在静态库中链接动态库.md",
+    "编译器/cmake/7.在程序中链接动态库.md",
+    "编译器/cmake/6.在程序中链接静态库.md",
     "版本控制/Git/命令学习/command.md",
+    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
     "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
     "版本控制/Git/命令学习/1.git add.md",
     "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
@@ -174,17 +184,7 @@
     "版本控制/Git/命令学习/git rev-parse.md",
     "版本控制/Git/命令学习/git format-patch.md",
     "版本控制/Git/Git pro/第二次学习/6.GitHub.md",
-    "版本控制/Git/Git pro/第二次学习/5.分布式 Git.md",
-    "版本控制/Git/命令学习/git request-pull.md",
-    "版本控制/Git/命令学习/git branch.md",
-    "版本控制/Git/命令学习/git rebase.md",
-    "版本控制/Git/命令学习/git merge.md",
-    "版本控制/Git/命令学习/git commit.md",
     "版本控制/Git/命令学习/未命名",
-    "版本控制/Git/Git pro/第二次学习/1.起步.md",
-    "版本控制/Git/Git pro/第二次学习/4.服务器上的 Git.md",
-    "编辑器/Vim/Vim 实用技巧/第五部分 模式/第 12 章 按模式匹配及按原义匹配.md",
-    "编辑器/Vim/vimgolf/加括号.md",
     "编辑器/Vim/Vim 实用技巧/第五部分 模式",
     "版本控制/Git/Git pro/第二次学习",
     "版本控制/Git/命令学习",

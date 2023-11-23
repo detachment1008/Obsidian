@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏引擎/Hazel/3. 日志系统.md",
+                "file": "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏引擎/Hazel/3. 日志系统.md",
+                "file": "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏引擎/Hazel/3. 日志系统.md",
+                "file": "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏引擎/Hazel/3. 日志系统.md"
+                "file": "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md"
               }
             }
           },
@@ -158,8 +158,22 @@
   },
   "active": "a90dd969e7721305",
   "lastOpenFiles": [
-    "数学/普林斯顿微积分读本/第 11 章 导数和图像.md",
+    "图形学/OpenGL-Cherno/8. 在 OpenGL 中应该如何处理着色器.md",
+    "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md",
+    "图形学/OpenGL-Cherno/7. 在 OpenGL 中写一个着色器.md",
+    "图形学/OpenGL-Cherno/6. 着色器原理.md",
+    "图形学/OpenGL-Cherno/5. OpenGL 中顶点属性和布局.md",
+    "图形学/OpenGL-Cherno/4. 顶点缓冲区.md",
+    "图形学/OpenGL-Cherno/3. 在 C++ 中使用现代 OpenGL.md",
+    "图形学/OpenGL-Cherno/2. 设置 OpenGL 并在 C++ 中创建一个窗口.md",
+    "图形学/OpenGL-Cherno/1. 欢迎来到 OpenGL.md",
+    "游戏引擎/Hazel/5. 事件系统规划.md",
+    "图形学/OpenGL-Cherno",
+    "游戏引擎/Hazel/4. Premake 构建系统.md",
     "游戏引擎/Hazel/3. 日志系统.md",
+    "计算机组成原理/深入理解计算机系统/lab/实验 1：Data Lab.md",
+    "计算机组成原理/深入理解计算机系统/lab",
+    "数学/普林斯顿微积分读本/第 11 章 导数和图像.md",
     "数学/普林斯顿微积分读本/第 10 章 反函数和反三角函数.md",
     "游戏引擎/Hazel/2. 引擎入口点.md",
     "游戏引擎/Hazel/1. 项目设置.md",
@@ -173,28 +187,14 @@
     "数学/普林斯顿微积分读本/第 3 章 极限导论.md",
     "数学/普林斯顿微积分读本/第 4 章 求解多项式的极限问题.md",
     "数学/微积分的本质/3.用几何来求导.md",
-    "数学/普林斯顿微积分读本/第 1 章 函数、图像和直线.md",
-    "数学/未命名.md",
-    "数学/微积分的本质/1.概论.md",
     "数学/普林斯顿微积分读本",
-    "计算机组成原理/深入理解计算机系统/第二次学习/第 4 章 处理器体系结构.md",
-    "计算机组成原理/深入理解计算机系统/第二次学习/第 3 章 程序的机器级表示.md",
-    "数学/微积分的本质/2.导数的悖论.md",
-    "计算机组成原理/深入理解计算机系统/第二次学习/第 2 章 信息的表示和处理.md",
     "数学/微积分的本质",
     "数学",
     "未命名.canvas",
-    "计算机组成原理/深入理解计算机系统/第一次学习/第二部分 程序结构和执行/3.程序的机器级表示.md",
     "计算机组成原理/深入理解计算机系统/第二次学习",
     "计算机组成原理/深入理解计算机系统/第一次学习",
-    "计算机组成原理/深入理解计算机系统/第一次学习/第二部分 程序结构和执行/2.信息的表示和处理.md",
-    "计算机组成原理/编码/2.编码与组合.md",
-    "计算机组成原理/编码/1.至亲密友.md",
     "计算机组成原理/编码",
     "计算机组成原理/深入理解计算机系统/第一次学习/第一部分 计算机系统漫游",
-    "图形学/Games101/3.光的传播理论/16.光线追踪(蒙特卡洛积分与路径追踪).md",
-    "图形学/Ray Tracing in One Weekend",
-    "图形学/Games101/4.材质与外观",
     "Pasted image 20230618110333.png"
   ]
 }

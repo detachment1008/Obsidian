@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md"
+                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md"
+              }
+            }
+          },
+          {
+            "id": "9c9dec0f887ee4c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,10 +156,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf77bd67bddd8ec3",
+  "active": "51d0e5064fa0d441",
   "lastOpenFiles": [
-    "汇编/王爽/第 12 章 内中断.md",
+    "C++/分块学习/标准库学习/正则表达式库",
+    "C++/分块学习",
     "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
+    "C++/分块学习/标准库学习/正则表达式库/regex.md",
+    "C++/分块学习/标准库学习",
+    "汇编/王爽/第 12 章 内中断.md",
     "正则表达式/精通正则表达式",
     "正则表达式",
     "汇编/王爽/第 13 章 int 指令.md",
@@ -174,16 +188,12 @@
     "应用/Unity Shader入门精要/第一篇 基础篇/第 3 章 Unity Shader 基础.md",
     "应用/Unity Shader入门精要/第一篇 基础篇/第 2 章 渲染流水线.md",
     "应用/Unity Shader入门精要/第一篇 基础篇/第 1 章 欢迎来到 Shader 的世界.md",
-    "应用/xLua/入门/2.官方教程.md",
     "应用/Unity Shader入门精要/第二篇 初级篇",
     "应用/Unity Shader入门精要/第一篇 基础篇",
     "应用/Unity Shader入门精要",
-    "应用/xLua/入门/1. 介绍.md",
     "C++/算法/算法(第四版)",
     "C++/算法/编程珠玑/第三部分 应用",
     "C++/算法/编程珠玑/第二部分 性能",
-    "C++/算法/编程珠玑/第一部分 基础",
-    "C++/算法/编程珠玑",
     "Pasted image 20230801074039.png"
   ]
 }
