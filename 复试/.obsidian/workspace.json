@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图形学/OpenGL-Cherno/11. OpenGl 中的统一变量.md",
+                "file": "6. 计算机组成原理(体系结构)/目标.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图形学/OpenGL-Cherno/11. OpenGl 中的统一变量.md",
+                "file": "6. 计算机组成原理(体系结构)/目标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图形学/OpenGL-Cherno/11. OpenGl 中的统一变量.md",
+                "file": "6. 计算机组成原理(体系结构)/目标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图形学/OpenGL-Cherno/11. OpenGl 中的统一变量.md"
+                "file": "6. 计算机组成原理(体系结构)/目标.md"
               }
             }
           },
@@ -158,6 +158,15 @@
   },
   "active": "a90dd969e7721305",
   "lastOpenFiles": [
+    "7. 操作系统/目标.md",
+    "5. 数据结构与算法/目标.md",
+    "10. 编译原理/目标.md",
+    "9. 数据库/目标.md",
+    "8. 计算机网络/目标.md",
+    "6. 计算机组成原理(体系结构)/目标.md",
+    "1. 微积分/目标.md",
+    "3. 概率论/目标.md",
+    "2. 线性代数/目标.md",
     "图形学/OpenGL-Cherno/10. 在 OpenGL 中处理错误.md",
     "图形学/OpenGL-Cherno/11. OpenGl 中的统一变量.md",
     "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md",
@@ -177,16 +186,7 @@
     "游戏引擎/Hazel/3. 日志系统.md",
     "计算机组成原理/深入理解计算机系统/lab/实验 1：Data Lab.md",
     "计算机组成原理/深入理解计算机系统/lab",
-    "数学/普林斯顿微积分读本/第 11 章 导数和图像.md",
-    "数学/普林斯顿微积分读本/第 10 章 反函数和反三角函数.md",
-    "游戏引擎/Hazel/2. 引擎入口点.md",
-    "游戏引擎/Hazel/1. 项目设置.md",
     "游戏引擎/Hazel",
-    "数学/普林斯顿微积分读本/第 9 章 指数函数和对数函数.md",
-    "数学/普林斯顿微积分读本/第 5 章 连续性和可导性.md",
-    "数学/普林斯顿微积分读本/第 6 章 求解微分问题.md",
-    "数学/普林斯顿微积分读本/第 7 章 三角函数的极限和导数.md",
-    "数学/普林斯顿微积分读本/第 8 章 隐函数求导和相关变化率.md",
     "数学/普林斯顿微积分读本",
     "数学/微积分的本质",
     "数学",

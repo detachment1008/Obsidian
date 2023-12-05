@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md",
+                "file": "编译器/gdb/2. 无源码.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md",
+                "file": "编译器/gdb/2. 无源码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md",
+                "file": "编译器/gdb/2. 无源码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译器/cmake/5.制作库文件.md"
+                "file": "编译器/gdb/2. 无源码.md"
               }
             }
           },
@@ -158,10 +158,15 @@
   },
   "active": "073b10f5d6590ac7",
   "lastOpenFiles": [
+    "编译器/gdb/1. 有源码.md",
+    "编译器/gdb/2. 无源码.md",
+    "编辑器/nvim/2. lua 中的模式匹配.md",
+    "编译器/gdb/未命名",
+    "编译器/gdb/1.启动调试.md",
+    "编译器/cmake/5.制作库文件.md",
     "编译器/cmake/2.设置变量.md",
     "编译器/cmake/1.必须部分.md",
     "编辑器/nvim/1. nvim 接口.md",
-    "编译器/cmake/5.制作库文件.md",
     "编译器/cmake/3.搜索文件.md",
     "编译器/cmake/4.指定头文件的目录.md",
     "编译器/cmake/13.在静态库中链接静态库.md",
@@ -180,10 +185,6 @@
     "版本控制/Git/命令学习/git add.md",
     "版本控制/Git/命令学习/git log.md",
     "版本控制/Git/命令学习/git show.md",
-    "版本控制/Git/命令学习/git reflog.md",
-    "版本控制/Git/命令学习/git rev-parse.md",
-    "版本控制/Git/命令学习/git format-patch.md",
-    "版本控制/Git/Git pro/第二次学习/6.GitHub.md",
     "版本控制/Git/命令学习/未命名",
     "编辑器/Vim/Vim 实用技巧/第五部分 模式",
     "版本控制/Git/Git pro/第二次学习",
@@ -192,7 +193,6 @@
     "版本控制/Git/Git权威指南",
     "版本控制/Git/Git pro",
     "编辑器/Vim/Vim用户手册/5.让Vim工作",
-    "编辑器/Vim/Vim用户手册/4.编写Vim脚本",
-    "编辑器/Vim/Vim用户手册/3.调节Vim"
+    "编辑器/Vim/Vim用户手册/4.编写Vim脚本"
   ]
 }
