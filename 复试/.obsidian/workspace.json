@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3c47bf993853a411",
+    "id": "ca8c9d4d8a0732f9",
     "type": "split",
     "children": [
       {
-        "id": "685572299f55e1f7",
+        "id": "448804c1d3248979",
         "type": "tabs",
         "children": [
           {
-            "id": "073b10f5d6590ac7",
+            "id": "a90dd969e7721305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md",
+                "file": "6. 计算机组成原理(体系结构)/目标.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b9a9595a8fd2323d",
+    "id": "637188b5abc0c6a3",
     "type": "split",
     "children": [
       {
-        "id": "eaed59ee7d0e4674",
+        "id": "e64d8ff7a34e4cb5",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd5ee6b87cde4eb",
+            "id": "f1238f3c2fa3a3d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "b2c06c549c012b83",
+            "id": "caae041d7329f8be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "93b0e0dde49e54c1",
+            "id": "9d4862ff221deb97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 295.5110321044922
   },
   "right": {
-    "id": "c7bf6106b868ea82",
+    "id": "c2cd617a7cf9b763",
     "type": "split",
     "children": [
       {
-        "id": "155a535d8db6e336",
+        "id": "7cd180c20ccb780a",
         "type": "tabs",
         "children": [
           {
-            "id": "31e51169a56d6e48",
+            "id": "390de026f55e4606",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md",
+                "file": "6. 计算机组成原理(体系结构)/目标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "001ea9d6375cf959",
+            "id": "5bc7859cda8c84bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md",
+                "file": "6. 计算机组成原理(体系结构)/目标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "42464b8ace832b75",
+            "id": "189a066fff5e7f6a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "cd2c5b702d60b042",
+            "id": "fd463b87e96f50e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md"
+                "file": "6. 计算机组成原理(体系结构)/目标.md"
               }
             }
           },
           {
-            "id": "488a6eb151c6dc3f",
+            "id": "7ca6f6fb4f216688",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,43 +156,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "073b10f5d6590ac7",
+  "active": "a90dd969e7721305",
   "lastOpenFiles": [
-    "编译器/gdb/1. 有源码.md",
-    "编译器/gdb/2. 无源码.md",
-    "编辑器/nvim/2. lua 中的模式匹配.md",
-    "编译器/gdb/未命名",
-    "编译器/gdb/1.启动调试.md",
-    "编译器/cmake/5.制作库文件.md",
-    "编译器/cmake/2.设置变量.md",
-    "编译器/cmake/1.必须部分.md",
-    "编辑器/nvim/1. nvim 接口.md",
-    "编译器/cmake/3.搜索文件.md",
-    "编译器/cmake/4.指定头文件的目录.md",
-    "编译器/cmake/13.在静态库中链接静态库.md",
-    "编译器/cmake/14.在静态库中链接动态库.md",
-    "编译器/cmake/7.在程序中链接动态库.md",
-    "编译器/cmake/6.在程序中链接静态库.md",
-    "版本控制/Git/命令学习/command.md",
-    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
-    "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
-    "版本控制/Git/命令学习/1.git add.md",
-    "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
-    "版本控制/Git/命令学习/git clean.md",
-    "版本控制/Git/命令学习/git stash.md",
-    "版本控制/Git/命令学习/git checkout.md",
-    "版本控制/Git/命令学习/git reset.md",
-    "版本控制/Git/命令学习/git add.md",
-    "版本控制/Git/命令学习/git log.md",
-    "版本控制/Git/命令学习/git show.md",
-    "版本控制/Git/命令学习/未命名",
-    "编辑器/Vim/Vim 实用技巧/第五部分 模式",
-    "版本控制/Git/Git pro/第二次学习",
-    "版本控制/Git/命令学习",
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏",
-    "版本控制/Git/Git权威指南",
-    "版本控制/Git/Git pro",
-    "编辑器/Vim/Vim用户手册/5.让Vim工作",
-    "编辑器/Vim/Vim用户手册/4.编写Vim脚本"
+    "7. 操作系统/目标.md",
+    "5. 数据结构与算法/目标.md",
+    "10. 编译原理/目标.md",
+    "9. 数据库/目标.md",
+    "8. 计算机网络/目标.md",
+    "6. 计算机组成原理(体系结构)/目标.md",
+    "1. 微积分/目标.md",
+    "3. 概率论/目标.md",
+    "2. 线性代数/目标.md",
+    "图形学/OpenGL-Cherno/10. 在 OpenGL 中处理错误.md",
+    "图形学/OpenGL-Cherno/11. OpenGl 中的统一变量.md",
+    "图形学/OpenGL-Cherno/9. 在 OpenGL 中的索引区.md",
+    "数学/普林斯顿微积分读本/第 2 章 三角学回顾.md",
+    "数学/普林斯顿微积分读本/第 1 章 函数、图像和直线.md",
+    "图形学/OpenGL-Cherno/8. 在 OpenGL 中应该如何处理着色器.md",
+    "图形学/OpenGL-Cherno/7. 在 OpenGL 中写一个着色器.md",
+    "图形学/OpenGL-Cherno/6. 着色器原理.md",
+    "图形学/OpenGL-Cherno/5. OpenGL 中顶点属性和布局.md",
+    "图形学/OpenGL-Cherno/4. 顶点缓冲区.md",
+    "图形学/OpenGL-Cherno/3. 在 C++ 中使用现代 OpenGL.md",
+    "图形学/OpenGL-Cherno/2. 设置 OpenGL 并在 C++ 中创建一个窗口.md",
+    "图形学/OpenGL-Cherno/1. 欢迎来到 OpenGL.md",
+    "游戏引擎/Hazel/5. 事件系统规划.md",
+    "图形学/OpenGL-Cherno",
+    "游戏引擎/Hazel/4. Premake 构建系统.md",
+    "游戏引擎/Hazel/3. 日志系统.md",
+    "计算机组成原理/深入理解计算机系统/lab/实验 1：Data Lab.md",
+    "计算机组成原理/深入理解计算机系统/lab",
+    "游戏引擎/Hazel",
+    "数学/普林斯顿微积分读本",
+    "数学/微积分的本质",
+    "数学",
+    "未命名.canvas",
+    "计算机组成原理/深入理解计算机系统/第二次学习",
+    "计算机组成原理/深入理解计算机系统/第一次学习",
+    "计算机组成原理/编码",
+    "计算机组成原理/深入理解计算机系统/第一次学习/第一部分 计算机系统漫游",
+    "Pasted image 20230618110333.png"
   ]
 }
