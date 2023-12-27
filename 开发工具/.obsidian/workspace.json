@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "685572299f55e1f7",
+        "id": "52d9d59c91a89a61",
         "type": "tabs",
         "children": [
           {
-            "id": "073b10f5d6590ac7",
+            "id": "74361794abc88df3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md",
+                "file": "gnuplot/函数表示.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md",
+                "file": "gnuplot/函数表示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md",
+                "file": "gnuplot/函数表示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译器/gdb/2. 无源码.md"
+                "file": "gnuplot/函数表示.md"
               }
             }
           },
@@ -156,10 +156,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "073b10f5d6590ac7",
+  "active": "74361794abc88df3",
   "lastOpenFiles": [
-    "编译器/gdb/1. 有源码.md",
+    "gnuplot/命令模板.md",
+    "gnuplot/函数表示.md",
+    "gnuplot",
+    "自动分析源码/配置模板.md",
+    "自动分析源码/Doxygen.md",
+    "自动分析源码/基础使用.md",
     "编译器/gdb/2. 无源码.md",
+    "自动分析源码",
+    "编译器/gdb/3. 分屏显示.md",
+    "编译器/gdb/1. 有源码.md",
     "编辑器/nvim/2. lua 中的模式匹配.md",
     "编译器/gdb/未命名",
     "编译器/gdb/1.启动调试.md",
@@ -179,20 +187,12 @@
     "版本控制/Git/命令学习/1.git add.md",
     "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
     "版本控制/Git/命令学习/git clean.md",
-    "版本控制/Git/命令学习/git stash.md",
-    "版本控制/Git/命令学习/git checkout.md",
-    "版本控制/Git/命令学习/git reset.md",
-    "版本控制/Git/命令学习/git add.md",
-    "版本控制/Git/命令学习/git log.md",
-    "版本控制/Git/命令学习/git show.md",
     "版本控制/Git/命令学习/未命名",
     "编辑器/Vim/Vim 实用技巧/第五部分 模式",
     "版本控制/Git/Git pro/第二次学习",
     "版本控制/Git/命令学习",
     "版本控制/Git/Git权威指南/第二篇 Git 独奏",
     "版本控制/Git/Git权威指南",
-    "版本控制/Git/Git pro",
-    "编辑器/Vim/Vim用户手册/5.让Vim工作",
-    "编辑器/Vim/Vim用户手册/4.编写Vim脚本"
+    "版本控制/Git/Git pro"
   ]
 }
