@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md",
+                "file": "C++/分块学习/标准库学习/函数/find.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md",
+                "file": "C++/分块学习/标准库学习/函数/find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md",
+                "file": "C++/分块学习/标准库学习/函数/find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/分块学习/标准库学习/正则表达式库/regex.md"
+                "file": "C++/分块学习/标准库学习/函数/find.md"
               }
             }
           },
@@ -156,12 +156,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51d0e5064fa0d441",
+  "active": "bf77bd67bddd8ec3",
   "lastOpenFiles": [
+    "C++/分块学习/标准库学习/正则表达式库/regex.md",
+    "C++/分块学习/标准库学习/函数/find.md",
+    "C++/分块学习/标准库学习/函数",
     "C++/分块学习/标准库学习/正则表达式库",
     "C++/分块学习",
     "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
-    "C++/分块学习/标准库学习/正则表达式库/regex.md",
     "C++/分块学习/标准库学习",
     "汇编/王爽/第 12 章 内中断.md",
     "正则表达式/精通正则表达式",
@@ -192,8 +194,6 @@
     "应用/Unity Shader入门精要/第一篇 基础篇",
     "应用/Unity Shader入门精要",
     "C++/算法/算法(第四版)",
-    "C++/算法/编程珠玑/第三部分 应用",
-    "C++/算法/编程珠玑/第二部分 性能",
     "Pasted image 20230801074039.png"
   ]
 }
