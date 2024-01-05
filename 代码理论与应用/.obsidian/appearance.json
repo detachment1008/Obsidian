@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "LineSpace"
   ],
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "theme": "obsidian"
 }
