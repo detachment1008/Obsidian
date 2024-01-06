@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "库/ncurses.md",
+                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50043487548828
+    "width": 301.5
   },
   "right": {
     "id": "89a234478bcf6875",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "库/ncurses.md",
+                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "库/ncurses.md",
+                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "库/ncurses.md"
+                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md"
               }
             }
           },
@@ -158,44 +158,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf77bd67bddd8ec3",
+  "active": "51d0e5064fa0d441",
   "lastOpenFiles": [
-    "C++/分块学习/标准库学习/正则表达式库/regex.md",
-    "库/ncurses.md",
+    "C++/Effective C++/8. 定制 new 和 delete",
+    "C++/Effective C++/7. 模板与泛型编程/条款 47：请使用 traits classes 表现类型信息.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 46：需要类型转换时，请为模板定义非成员函数.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 45：运用成员函数模板接受所有兼容类型.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 44：将与参数无关的代码抽离 templates.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 43：学习处理模板化基类内的名称.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 42：了解 typename 的双重含义.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 41：了解隐式接口和编译器多态.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 40：明智而审慎地使用多重继承.md",
+    "C++/Effective C++/7. 模板与泛型编程",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 39：明智而审慎地使用 private 继承.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 38：通过组合塑造出 has-a 或根据某物实现出.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 37：绝不重新定义继承而来的缺省参数值.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 36：绝不中心定义继承而来的 non-virtual 函数.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 35：考虑 virtual 函数以外的其他选择.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 34：区分接口继承和实现继承.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 33：避免遮掩继承而来的名称.md",
+    "C++/Effective C++/6. 继承与面向对象设计/条款 32：确定你的 public 继承塑造出 is-a 的关系.md",
+    "C++/Effective C++/5. 实现/条款 31：将文件间的编译依存关系降至最低.md",
+    "C++/Effective C++/6. 继承与面向对象设计",
+    "C++/Effective C++/5. 实现/条款 30：透彻了解 inlining 的里里外外.md",
+    "C++/Effective C++/5. 实现/条款 29：为“异常安全”而努力是值得的.md",
+    "C++/Effective C++/5. 实现/条款 28：避免返回 handles 指向对象内部成分.md",
+    "C++/Effective C++/5. 实现/条款 27：尽量少做转型动作.md",
+    "C++/Effective C++/5. 实现/条款 26：尽可能延后变量定义式的出现时间.md",
+    "C++/Effective C++/4. 设计与声明/条款 25：考虑写出一个不抛异常的 swap 函数.md",
+    "C++/Effective C++/5. 实现",
+    "C++/Effective C++/4. 设计与声明/条款 24：若所有参数皆需类型转换，请为此采用 non-member 函数.md",
+    "C++/Effective C++/4. 设计与声明",
+    "C++/Effective C++/3. 资源管理",
+    "C++/Effective C++/2. 构造、析构、赋值运算符",
+    "C++/Effective C++/1. 让自己习惯 C++",
+    "C++/Effective C++",
     "库",
     "C++/分块学习/标准库学习/正则表达式库",
-    "C++/分块学习",
-    "正则表达式/精通正则表达式/第 1 章 正则表达式入门.md",
-    "C++/分块学习/标准库学习",
-    "汇编/王爽/第 12 章 内中断.md",
-    "正则表达式/精通正则表达式",
-    "正则表达式",
-    "汇编/王爽/第 13 章 int 指令.md",
-    "汇编/王爽/第 8 章 数据处理的两个基本问题.md",
-    "汇编/王爽/第 2 章 寄存器.md",
-    "汇编/王爽/第 3 章 寄存器(内存访问).md",
-    "汇编/王爽/第 11 章 标志寄存器.md",
-    "汇编/王爽/第 4 章 第一个程序.md",
-    "汇编/王爽/第 7 章 更灵活的定位内存地址的方法.md",
-    "汇编/王爽/第 10 章 CALL 和 RET 指令.md",
-    "汇编/王爽/第 9 章 转移指令的原理.md",
-    "汇编/王爽/第 6 章 包含多个段的程序.md",
-    "汇编/王爽/第 17 章 使用 BIOS 进行键盘输入和磁盘读写.md",
-    "汇编/王爽/第 16 章 直接定址表.md",
-    "汇编/王爽/第 15 章 外中断.md",
-    "汇编/王爽/第 14 章 端口.md",
-    "汇编/王爽/第 5 章 bx 和 loop 指令.md",
-    "汇编/王爽/第 1 章 基础知识.md",
-    "C++/算法/算法(第四版)/第 3 章 查找.md",
-    "应用/Unity Shader入门精要/第二篇 初级篇/第 5 章 开始 Unity Shader 学习之旅.md",
-    "应用/Unity Shader入门精要/第一篇 基础篇/第 4 章 学习 Shader 所需的数学基础.md",
-    "应用/Unity Shader入门精要/第一篇 基础篇/第 3 章 Unity Shader 基础.md",
-    "应用/Unity Shader入门精要/第一篇 基础篇/第 2 章 渲染流水线.md",
-    "应用/Unity Shader入门精要/第一篇 基础篇/第 1 章 欢迎来到 Shader 的世界.md",
-    "应用/Unity Shader入门精要/第二篇 初级篇",
-    "应用/Unity Shader入门精要/第一篇 基础篇",
-    "应用/Unity Shader入门精要",
-    "C++/算法/算法(第四版)",
     "Pasted image 20230801074039.png"
   ]
 }
