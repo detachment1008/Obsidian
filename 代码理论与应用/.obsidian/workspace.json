@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "474289ab6ad598cd",
+        "id": "dc71f8ac4eb1debf",
         "type": "tabs",
         "children": [
           {
-            "id": "bf77bd67bddd8ec3",
+            "id": "68f55f4b0ca01585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
+                "file": "C++/C++ 标准库/第 4 章 一般概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
+                "file": "C++/C++ 标准库/第 4 章 一般概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
+                "file": "C++/C++ 标准库/第 4 章 一般概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md"
+                "file": "C++/C++ 标准库/第 4 章 一般概念.md"
               }
             }
           },
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +158,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51d0e5064fa0d441",
+  "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/2. 内存的申请, 释放.md",
+    "C++/C++ 标准库/第 4 章 一般概念.md",
+    "C++/C++ 标准库",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/1. 构造, 析构函数.md",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/未命名",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/2. 分配操作.md",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/3.md",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/1. 必要接口.md",
+    "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
+    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器",
+    "C++/侯捷/STL 源码剖析",
     "C++/Effective C++/8. 定制 new 和 delete",
     "C++/Effective C++/7. 模板与泛型编程/条款 47：请使用 traits classes 表现类型信息.md",
-    "C++/Effective C++/7. 模板与泛型编程/条款 48：认识 template 元编程.md",
     "C++/Effective C++/7. 模板与泛型编程/条款 46：需要类型转换时，请为模板定义非成员函数.md",
     "C++/Effective C++/7. 模板与泛型编程/条款 45：运用成员函数模板接受所有兼容类型.md",
     "C++/Effective C++/7. 模板与泛型编程/条款 44：将与参数无关的代码抽离 templates.md",
@@ -183,19 +194,8 @@
     "C++/Effective C++/6. 继承与面向对象设计",
     "C++/Effective C++/5. 实现/条款 30：透彻了解 inlining 的里里外外.md",
     "C++/Effective C++/5. 实现/条款 29：为“异常安全”而努力是值得的.md",
-    "C++/Effective C++/5. 实现/条款 28：避免返回 handles 指向对象内部成分.md",
-    "C++/Effective C++/5. 实现/条款 27：尽量少做转型动作.md",
-    "C++/Effective C++/5. 实现/条款 26：尽可能延后变量定义式的出现时间.md",
-    "C++/Effective C++/4. 设计与声明/条款 25：考虑写出一个不抛异常的 swap 函数.md",
     "C++/Effective C++/5. 实现",
-    "C++/Effective C++/4. 设计与声明/条款 24：若所有参数皆需类型转换，请为此采用 non-member 函数.md",
     "C++/Effective C++/4. 设计与声明",
-    "C++/Effective C++/3. 资源管理",
-    "C++/Effective C++/2. 构造、析构、赋值运算符",
-    "C++/Effective C++/1. 让自己习惯 C++",
-    "C++/Effective C++",
-    "库",
-    "C++/分块学习/标准库学习/正则表达式库",
     "Pasted image 20230801074039.png"
   ]
 }
