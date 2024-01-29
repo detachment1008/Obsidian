@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md",
+                "file": "C++/C++ Template/3. 基础技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md",
+                "file": "C++/C++ Template/3. 基础技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md",
+                "file": "C++/C++ Template/3. 基础技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md"
+                "file": "C++/C++ Template/3. 基础技巧.md"
               }
             }
           },
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +160,12 @@
   },
   "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
-    "C++/深入探索 C++ 对象模型/第 1 章 关于对象/1. C 和 C++ 关于数据处理的区别.md",
+    "C++/C++ Template/2. 高级语法.md",
+    "C++/C++ Template/3. 基础技巧.md",
+    "C++/C++ Template/1. 基础语法.md",
     "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md",
+    "C++/C++ Template",
+    "C++/深入探索 C++ 对象模型/第 1 章 关于对象/1. C 和 C++ 关于数据处理的区别.md",
     "C++/C++ 标准库/第 5 章 通用工具/4. Type Trait 和 Type Utility.md",
     "C++/深入探索 C++ 对象模型/第 1 章 关于对象",
     "C++/深入探索 C++ 对象模型/未命名.md",
@@ -187,15 +191,11 @@
     "C++/C++ 标准库/第 3 章 语言新特性/11. 关键字 decltype.md",
     "C++/C++ 标准库/第 3 章 语言新特性/10. Lambda 表达式.md",
     "C++/C++ 标准库/第 3 章 语言新特性/9. template 新特性.md",
-    "C++/C++ 标准库/第 3 章 语言新特性/8. constexpr 关键字.md",
-    "C++/C++ 标准库/第 4 章 一般概念.md",
-    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/2. 内存的申请, 释放.md",
     "C++/C++ 标准库",
     "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/未命名",
     "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现",
     "C++/侯捷/STL 源码剖析/第 2 章 空间分配器",
     "C++/侯捷/STL 源码剖析",
-    "C++/Effective C++/8. 定制 new 和 delete",
     "Pasted image 20230801074039.png"
   ]
 }
