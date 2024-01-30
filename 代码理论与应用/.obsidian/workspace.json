@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++ Template/3. 基础技巧.md",
+                "file": "C++/C++ Template/2. 模板类.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ Template/3. 基础技巧.md",
+                "file": "C++/C++ Template/2. 模板类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ Template/3. 基础技巧.md",
+                "file": "C++/C++ Template/2. 模板类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ Template/3. 基础技巧.md"
+                "file": "C++/C++ Template/2. 模板类.md"
               }
             }
           },
@@ -160,8 +160,12 @@
   },
   "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
-    "C++/C++ Template/2. 高级语法.md",
+    "C++/C++ Template/4. 类模板别名.md",
+    "C++/C++ Template/2. 模板类.md",
+    "C++/C++ Template/1. 模板函数.md",
+    "C++/C++ Template/3. 模板变量.md",
     "C++/C++ Template/3. 基础技巧.md",
+    "C++/C++ Template/2. 高级语法.md",
     "C++/C++ Template/1. 基础语法.md",
     "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md",
     "C++/C++ Template",
@@ -187,10 +191,6 @@
     "C++/C++ 标准库/第 3 章 语言新特性/14. 新的基础类型.md",
     "C++/C++ 标准库/第 4 章 一般概念",
     "C++/C++ 标准库/第 3 章 语言新特性/13. 带域的 Enum.md",
-    "C++/C++ 标准库/第 3 章 语言新特性/12. 新的函数声明语法.md",
-    "C++/C++ 标准库/第 3 章 语言新特性/11. 关键字 decltype.md",
-    "C++/C++ 标准库/第 3 章 语言新特性/10. Lambda 表达式.md",
-    "C++/C++ 标准库/第 3 章 语言新特性/9. template 新特性.md",
     "C++/C++ 标准库",
     "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/未命名",
     "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现",

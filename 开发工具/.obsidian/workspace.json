@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md"
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md"
               }
             }
           },
@@ -160,8 +160,18 @@
   },
   "active": "74361794abc88df3",
   "lastOpenFiles": [
-    "gnuplot/函数表示.md",
+    "编辑器/Vim/Vim 文档/1. 初步知识/5. 做大修改.md",
+    "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
+    "编辑器/Vim/Vim 文档/高效的编辑",
+    "编辑器/Vim/Vim 文档/1. 初步知识/6. 小窍门.md",
+    "编辑器/Vim/Vim 文档/1. 初步知识/4. 文件.md",
+    "编辑器/Vim/Vim 文档/1. 初步知识/3. 语法高亮.md",
+    "编辑器/Vim/Vim 文档/1. 初步知识/2. 选项设置.md",
+    "编辑器/Vim/Vim 文档/1. 初步知识/1. 基础.md",
     "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
+    "编辑器/Vim/Vim 文档/1. 初步知识",
+    "编辑器/Vim/Vim 文档",
+    "gnuplot/函数表示.md",
     "编辑器/Vim/vim 的一些探究",
     "gnuplot/命令模板.md",
     "gnuplot",
@@ -183,18 +193,8 @@
     "编译器/cmake/4.指定头文件的目录.md",
     "编译器/cmake/13.在静态库中链接静态库.md",
     "编译器/cmake/14.在静态库中链接动态库.md",
-    "编译器/cmake/7.在程序中链接动态库.md",
-    "编译器/cmake/6.在程序中链接静态库.md",
-    "版本控制/Git/命令学习/command.md",
-    "版本控制/Git/Git pro/第二次学习/3.Git 分支.md",
-    "版本控制/Git/Git pro/第二次学习/2.Git 基础.md",
-    "版本控制/Git/命令学习/1.git add.md",
-    "版本控制/Git/Git pro/第二次学习/7.Git 工具.md",
     "版本控制/Git/命令学习/未命名",
     "编辑器/Vim/Vim 实用技巧/第五部分 模式",
-    "版本控制/Git/Git pro/第二次学习",
-    "版本控制/Git/命令学习",
-    "版本控制/Git/Git权威指南/第二篇 Git 独奏",
-    "版本控制/Git/Git权威指南"
+    "版本控制/Git/Git pro/第二次学习"
   ]
 }
