@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix 命令/1. grep.md",
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unix 命令/1. grep.md",
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unix 命令/1. grep.md",
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix 命令/1. grep.md"
+                "file": "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "74361794abc88df3",
   "lastOpenFiles": [
-    "未命名.md",
     "Unix 命令/1. grep.md",
+    "未命名.md",
     "Unix 命令",
     "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
     "编辑器/Vim/Vim 文档/1. 初步知识/5. 做大修改.md",
