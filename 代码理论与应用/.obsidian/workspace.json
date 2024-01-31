@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++ Template/2. 模板类.md",
+                "file": "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符号要求时.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ Template/2. 模板类.md",
+                "file": "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符号要求时.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ Template/2. 模板类.md",
+                "file": "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符号要求时.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ Template/2. 模板类.md"
+                "file": "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符号要求时.md"
               }
             }
           },
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +160,20 @@
   },
   "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
-    "C++/C++ Template/4. 类模板别名.md",
+    "C++/Modern Effect C++/2. auto/1. 优先选用 auto，而非显式声明.md",
+    "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符号要求时.md",
+    "C++/Modern Effect C++/1. 类型推导/4. 掌握查看类型推导结果的方法.md",
+    "C++/Modern Effect C++/2. auto",
+    "C++/Modern Effect C++/1. 类型推导/3. 理解 decltype.md",
+    "C++/Modern Effect C++/1. 类型推导/1. 理解模板类型推导.md",
+    "C++/Modern Effect C++/1. 类型推导/2. 理解 auto 类型推导.md",
+    "C++/Modern Effect C++/1. 类型推导",
+    "C++/C++ Template/5. 实例化.md",
+    "C++/Modern Effect C++",
     "C++/C++ Template/2. 模板类.md",
-    "C++/C++ Template/1. 模板函数.md",
     "C++/C++ Template/3. 模板变量.md",
+    "C++/C++ Template/1. 模板函数.md",
+    "C++/C++ Template/4. 类模板别名.md",
     "C++/C++ Template/3. 基础技巧.md",
     "C++/C++ Template/2. 高级语法.md",
     "C++/C++ Template/1. 基础语法.md",
@@ -183,19 +193,9 @@
     "C++/C++ 标准库/第 5 章 通用工具/1. Pair 和 Tuple.md",
     "C++/C++ 标准库/第 4 章 一般概念/6. 分配器.md",
     "C++/C++ 标准库/第 5 章 通用工具",
-    "C++/C++ 标准库/第 4 章 一般概念/5. 并发与多线程.md",
-    "C++/C++ 标准库/第 4 章 一般概念/4. 可被调用的对象.md",
-    "C++/C++ 标准库/第 4 章 一般概念/3. 差错和异常处理.md",
-    "C++/C++ 标准库/第 4 章 一般概念/2. 头文件.md",
-    "C++/C++ 标准库/第 4 章 一般概念/1. 命名空间.md",
-    "C++/C++ 标准库/第 3 章 语言新特性/14. 新的基础类型.md",
     "C++/C++ 标准库/第 4 章 一般概念",
-    "C++/C++ 标准库/第 3 章 语言新特性/13. 带域的 Enum.md",
     "C++/C++ 标准库",
     "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现/未命名",
-    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器/功能实现",
-    "C++/侯捷/STL 源码剖析/第 2 章 空间分配器",
-    "C++/侯捷/STL 源码剖析",
     "Pasted image 20230801074039.png"
   ]
 }
