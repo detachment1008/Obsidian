@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/2. 优先选用 nullptr，而非 0 或 NULL.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 417.5
   },
   "right": {
     "id": "89a234478bcf6875",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/2. 优先选用 nullptr，而非 0 或 NULL.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/2. 优先选用 nullptr，而非 0 或 NULL.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/2. 优先选用 nullptr，而非 0 或 NULL.md"
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md"
               }
             }
           },
@@ -160,9 +160,11 @@
   },
   "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
-    "C++/Modern Effect C++/3. 转向现代 C++/1. 在创建对象时注意区分 () 和 {}.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/3. 优先选用别名，而非 typedef.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
+    "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符合要求时，用显式的名称使用.md",
     "C++/Modern Effect C++/3. 转向现代 C++/2. 优先选用 nullptr，而非 0 或 NULL.md",
-    "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符号要求时.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/1. 在创建对象时注意区分 () 和 {}.md",
     "C++/Modern Effect C++/3. 转向现代 C++",
     "C++/Modern Effect C++/未命名 1",
     "C++/Modern Effect C++/2. auto/1. 优先选用 auto，而非显式声明.md",
@@ -192,8 +194,6 @@
     "C++/C++ 标准库/第 5 章 通用工具/7. Clock 和 Timer.md",
     "C++/C++ 标准库/第 5 章 通用工具/6. 编译期分数运算.md",
     "C++/C++ 标准库/第 5 章 通用工具/5. 辅助函数.md",
-    "C++/C++ 标准库/第 5 章 通用工具/3. 数值的极值.md",
-    "C++/C++ 标准库/第 5 章 通用工具/2. 智能指针.md",
     "C++/C++ 标准库/第 5 章 通用工具",
     "C++/C++ 标准库/第 4 章 一般概念",
     "Pasted image 20230801074039.png"
