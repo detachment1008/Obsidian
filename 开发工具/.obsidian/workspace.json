@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/高效的编辑/10. 代码间的移动.md",
+                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/高效的编辑/10. 代码间的移动.md",
+                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/高效的编辑/10. 代码间的移动.md",
+                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/高效的编辑/10. 代码间的移动.md"
+                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md"
               }
             }
           },
@@ -160,18 +160,25 @@
   },
   "active": "74361794abc88df3",
   "lastOpenFiles": [
-    "编辑器/Vim/Vim 文档/高效的编辑/9. 折叠.md",
-    "编辑器/Vim/Vim 文档/高效的编辑/10. 代码间的移动.md",
-    "编辑器/Vim/Vim 文档/高效的编辑/8. 查找.md",
-    "编辑器/Vim/Vim 文档/高效的编辑/5. 快速插入.md",
-    "编辑器/Vim/Vim 文档/高效的编辑/4. 编辑特殊的文件.md",
-    "编辑器/Vim/Vim 文档/高效的编辑/3. 寻找要编辑的文件.md",
-    "编辑器/Vim/Vim 文档/高效的编辑/1. 快速键入命令行.md",
+    "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
+    "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
+    "编辑器/nvim/再次学习一下/1. 模块.md",
+    "编辑器/Vim/Vim 文档/vim9",
+    "编辑器/nvim/1. nvim 接口.md",
+    "编辑器/nvim/2. lua 中的模式匹配.md",
+    "编辑器/nvim/再次学习一下",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/10. 代码间的移动.md",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/9. 折叠.md",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/8. 查找.md",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/5. 快速插入.md",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/4. 编辑特殊的文件.md",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/3. 寻找要编辑的文件.md",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑/1. 快速键入命令行.md",
     "Unix 命令/1. grep.md",
     "未命名.md",
     "Unix 命令",
     "编辑器/Vim/Vim 文档/1. 初步知识/5. 做大修改.md",
-    "编辑器/Vim/Vim 文档/高效的编辑",
+    "编辑器/Vim/Vim 文档/2. 高效的编辑",
     "编辑器/Vim/Vim 文档/1. 初步知识/6. 小窍门.md",
     "编辑器/Vim/Vim 文档/1. 初步知识/4. 文件.md",
     "编辑器/Vim/Vim 文档/1. 初步知识/3. 语法高亮.md",
@@ -187,14 +194,7 @@
     "自动分析源码/配置模板.md",
     "自动分析源码/Doxygen.md",
     "自动分析源码/基础使用.md",
-    "编译器/gdb/2. 无源码.md",
     "自动分析源码",
-    "编译器/gdb/3. 分屏显示.md",
-    "编译器/gdb/1. 有源码.md",
-    "编辑器/nvim/2. lua 中的模式匹配.md",
-    "编译器/gdb/未命名",
-    "编译器/gdb/1.启动调试.md",
-    "版本控制/Git/命令学习/未命名",
-    "编辑器/Vim/Vim 实用技巧/第五部分 模式"
+    "编译器/gdb/未命名"
   ]
 }

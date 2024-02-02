@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md"
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
-    "C++/Modern Effect C++/3. 转向现代 C++/3. 优先选用别名，而非 typedef.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/6. 为目的是重写的函数添加 override 声明.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/5. 优先选用删除函数，而非 private 未定义函数.md",
     "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/3. 优先选用别名，而非 typedef.md",
     "C++/Modern Effect C++/2. auto/2. 当 auto 推导的类型不符合要求时，用显式的名称使用.md",
     "C++/Modern Effect C++/3. 转向现代 C++/2. 优先选用 nullptr，而非 0 或 NULL.md",
     "C++/Modern Effect C++/3. 转向现代 C++/1. 在创建对象时注意区分 () 和 {}.md",
@@ -191,9 +194,6 @@
     "C++/深入探索 C++ 对象模型/未命名.md",
     "C++/深入探索 C++ 对象模型",
     "C++/C++ 标准库/第 5 章 通用工具/8. 和 C 兼容的头文件.md",
-    "C++/C++ 标准库/第 5 章 通用工具/7. Clock 和 Timer.md",
-    "C++/C++ 标准库/第 5 章 通用工具/6. 编译期分数运算.md",
-    "C++/C++ 标准库/第 5 章 通用工具/5. 辅助函数.md",
     "C++/C++ 标准库/第 5 章 通用工具",
     "C++/C++ 标准库/第 4 章 一般概念",
     "Pasted image 20230801074039.png"
