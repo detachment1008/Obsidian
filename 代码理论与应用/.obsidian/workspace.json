@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/10. 保证 const 成员函数的线程安全性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/10. 保证 const 成员函数的线程安全性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/10. 保证 const 成员函数的线程安全性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md"
+                "file": "C++/Modern Effect C++/3. 转向现代 C++/10. 保证 const 成员函数的线程安全性.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "68f55f4b0ca01585",
   "lastOpenFiles": [
-    "C++/Modern Effect C++/3. 转向现代 C++/6. 为目的是重写的函数添加 override 声明.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/9. 只要有可能使用 constexpr，就使用它.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/10. 保证 const 成员函数的线程安全性.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/8. 只要函数不会抛出异常，就加上 noexcept 声明.md",
     "C++/Modern Effect C++/3. 转向现代 C++/7. 优先选用 const_iterator，而非 iterator.md",
+    "C++/Modern Effect C++/3. 转向现代 C++/6. 为目的是重写的函数添加 override 声明.md",
     "C++/Modern Effect C++/3. 转向现代 C++/5. 优先选用删除函数，而非 private 未定义函数.md",
     "C++/Modern Effect C++/3. 转向现代 C++/4. 优先选用限定作用域的枚举类型，而非不限作用域的枚举类型.md",
     "C++/Modern Effect C++/3. 转向现代 C++/3. 优先选用别名，而非 typedef.md",
@@ -189,11 +192,8 @@
     "C++/深入探索 C++ 对象模型/第 1 章 关于对象/2. C++ 对象模式.md",
     "C++/C++ Template",
     "C++/深入探索 C++ 对象模型/第 1 章 关于对象/1. C 和 C++ 关于数据处理的区别.md",
-    "C++/C++ 标准库/第 5 章 通用工具/4. Type Trait 和 Type Utility.md",
     "C++/深入探索 C++ 对象模型/第 1 章 关于对象",
-    "C++/深入探索 C++ 对象模型/未命名.md",
     "C++/深入探索 C++ 对象模型",
-    "C++/C++ 标准库/第 5 章 通用工具/8. 和 C 兼容的头文件.md",
     "C++/C++ 标准库/第 5 章 通用工具",
     "C++/C++ 标准库/第 4 章 一般概念",
     "Pasted image 20230801074039.png"
