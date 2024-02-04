@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
+                "file": "自动分析源码/基础使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
+                "file": "自动分析源码/基础使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
+                "file": "自动分析源码/基础使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md"
+                "file": "自动分析源码/基础使用.md"
               }
             }
           },
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +160,14 @@
   },
   "active": "74361794abc88df3",
   "lastOpenFiles": [
-    "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
+    "tmux/2. 配置.md",
+    "tmux/1. 基础.md",
+    "自动分析源码/Doxygen.md",
+    "tmux",
+    "自动分析源码/配置模板.md",
+    "自动分析源码/基础使用.md",
     "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
+    "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
     "编辑器/nvim/再次学习一下/1. 模块.md",
     "编辑器/Vim/Vim 文档/vim9",
     "编辑器/nvim/1. nvim 接口.md",
@@ -187,14 +193,8 @@
     "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
     "编辑器/Vim/Vim 文档/1. 初步知识",
     "编辑器/Vim/Vim 文档",
-    "gnuplot/函数表示.md",
     "编辑器/Vim/vim 的一些探究",
-    "gnuplot/命令模板.md",
     "gnuplot",
-    "自动分析源码/配置模板.md",
-    "自动分析源码/Doxygen.md",
-    "自动分析源码/基础使用.md",
-    "自动分析源码",
-    "编译器/gdb/未命名"
+    "自动分析源码"
   ]
 }
