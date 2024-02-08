@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自动分析源码/基础使用.md",
+                "file": "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动分析源码/基础使用.md",
+                "file": "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自动分析源码/基础使用.md",
+                "file": "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自动分析源码/基础使用.md"
+                "file": "编辑器/Vim/Vim 文档/vim9/1. 基础.md"
               }
             }
           },
@@ -160,14 +160,19 @@
   },
   "active": "74361794abc88df3",
   "lastOpenFiles": [
-    "tmux/2. 配置.md",
-    "tmux/1. 基础.md",
-    "自动分析源码/Doxygen.md",
-    "tmux",
-    "自动分析源码/配置模板.md",
-    "自动分析源码/基础使用.md",
+    "编辑器/Vim/vim 的一些探究/3. package.md",
+    "编辑器/Vim/Vim 文档/高效的编辑/1. 离开和回来.md",
+    "编辑器/Vim/Vim 文档/高效的编辑",
+    "编辑器/Vim/vim 的一些探究/2. 特殊文件夹.md",
+    "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
     "编辑器/Vim/Vim 文档/vim9/2. 内置 API.md",
     "编辑器/Vim/Vim 文档/vim9/1. 基础.md",
+    "自动分析源码/基础使用.md",
+    "自动分析源码/Doxygen.md",
+    "自动分析源码/配置模板.md",
+    "tmux/2. 配置.md",
+    "tmux/1. 基础.md",
+    "tmux",
     "编辑器/nvim/再次学习一下/1. 模块.md",
     "编辑器/Vim/Vim 文档/vim9",
     "编辑器/nvim/1. nvim 接口.md",
@@ -187,14 +192,9 @@
     "编辑器/Vim/Vim 文档/2. 高效的编辑",
     "编辑器/Vim/Vim 文档/1. 初步知识/6. 小窍门.md",
     "编辑器/Vim/Vim 文档/1. 初步知识/4. 文件.md",
-    "编辑器/Vim/Vim 文档/1. 初步知识/3. 语法高亮.md",
-    "编辑器/Vim/Vim 文档/1. 初步知识/2. 选项设置.md",
-    "编辑器/Vim/Vim 文档/1. 初步知识/1. 基础.md",
-    "编辑器/Vim/vim 的一些探究/1. vim 的启动加载.md",
     "编辑器/Vim/Vim 文档/1. 初步知识",
     "编辑器/Vim/Vim 文档",
     "编辑器/Vim/vim 的一些探究",
-    "gnuplot",
-    "自动分析源码"
+    "gnuplot"
   ]
 }
